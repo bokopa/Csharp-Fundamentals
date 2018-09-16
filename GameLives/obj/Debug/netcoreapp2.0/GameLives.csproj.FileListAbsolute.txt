@@ -1,0 +1,10 @@
+C:\Users\Bobi\charp\projects\RectangleArea\GameLives\bin\Debug\netcoreapp2.0\GameLives.deps.json
+C:\Users\Bobi\charp\projects\RectangleArea\GameLives\bin\Debug\netcoreapp2.0\GameLives.runtimeconfig.json
+C:\Users\Bobi\charp\projects\RectangleArea\GameLives\bin\Debug\netcoreapp2.0\GameLives.runtimeconfig.dev.json
+C:\Users\Bobi\charp\projects\RectangleArea\GameLives\bin\Debug\netcoreapp2.0\GameLives.dll
+C:\Users\Bobi\charp\projects\RectangleArea\GameLives\bin\Debug\netcoreapp2.0\GameLives.pdb
+C:\Users\Bobi\charp\projects\RectangleArea\GameLives\obj\Debug\netcoreapp2.0\GameLives.csproj.CoreCompileInputs.cache
+C:\Users\Bobi\charp\projects\RectangleArea\GameLives\obj\Debug\netcoreapp2.0\GameLives.AssemblyInfoInputs.cache
+C:\Users\Bobi\charp\projects\RectangleArea\GameLives\obj\Debug\netcoreapp2.0\GameLives.AssemblyInfo.cs
+C:\Users\Bobi\charp\projects\RectangleArea\GameLives\obj\Debug\netcoreapp2.0\GameLives.dll
+C:\Users\Bobi\charp\projects\RectangleArea\GameLives\obj\Debug\netcoreapp2.0\GameLives.pdb

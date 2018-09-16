@@ -1,0 +1,10 @@
+C:\Users\Bobi\charp\projects\RectangleArea\ConsoleApp6\bin\Debug\netcoreapp2.0\ReversedOrder.deps.json
+C:\Users\Bobi\charp\projects\RectangleArea\ConsoleApp6\bin\Debug\netcoreapp2.0\ReversedOrder.runtimeconfig.json
+C:\Users\Bobi\charp\projects\RectangleArea\ConsoleApp6\bin\Debug\netcoreapp2.0\ReversedOrder.runtimeconfig.dev.json
+C:\Users\Bobi\charp\projects\RectangleArea\ConsoleApp6\bin\Debug\netcoreapp2.0\ReversedOrder.dll
+C:\Users\Bobi\charp\projects\RectangleArea\ConsoleApp6\bin\Debug\netcoreapp2.0\ReversedOrder.pdb
+C:\Users\Bobi\charp\projects\RectangleArea\ConsoleApp6\obj\Debug\netcoreapp2.0\ReversedOrder.csproj.CoreCompileInputs.cache
+C:\Users\Bobi\charp\projects\RectangleArea\ConsoleApp6\obj\Debug\netcoreapp2.0\ReversedOrder.AssemblyInfoInputs.cache
+C:\Users\Bobi\charp\projects\RectangleArea\ConsoleApp6\obj\Debug\netcoreapp2.0\ReversedOrder.AssemblyInfo.cs
+C:\Users\Bobi\charp\projects\RectangleArea\ConsoleApp6\obj\Debug\netcoreapp2.0\ReversedOrder.dll
+C:\Users\Bobi\charp\projects\RectangleArea\ConsoleApp6\obj\Debug\netcoreapp2.0\ReversedOrder.pdb

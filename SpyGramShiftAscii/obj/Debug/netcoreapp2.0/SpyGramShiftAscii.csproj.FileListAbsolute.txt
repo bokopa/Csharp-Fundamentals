@@ -1,0 +1,11 @@
+C:\Users\Bobi\charp\projects\RectangleArea\SpyGramShiftAscii\bin\Debug\netcoreapp2.0\SpyGramShiftAscii.deps.json
+C:\Users\Bobi\charp\projects\RectangleArea\SpyGramShiftAscii\bin\Debug\netcoreapp2.0\SpyGramShiftAscii.runtimeconfig.json
+C:\Users\Bobi\charp\projects\RectangleArea\SpyGramShiftAscii\bin\Debug\netcoreapp2.0\SpyGramShiftAscii.runtimeconfig.dev.json
+C:\Users\Bobi\charp\projects\RectangleArea\SpyGramShiftAscii\bin\Debug\netcoreapp2.0\SpyGramShiftAscii.dll
+C:\Users\Bobi\charp\projects\RectangleArea\SpyGramShiftAscii\bin\Debug\netcoreapp2.0\SpyGramShiftAscii.pdb
+C:\Users\Bobi\charp\projects\RectangleArea\SpyGramShiftAscii\obj\Debug\netcoreapp2.0\SpyGramShiftAscii.csprojResolveAssemblyReference.cache
+C:\Users\Bobi\charp\projects\RectangleArea\SpyGramShiftAscii\obj\Debug\netcoreapp2.0\SpyGramShiftAscii.csproj.CoreCompileInputs.cache
+C:\Users\Bobi\charp\projects\RectangleArea\SpyGramShiftAscii\obj\Debug\netcoreapp2.0\SpyGramShiftAscii.AssemblyInfoInputs.cache
+C:\Users\Bobi\charp\projects\RectangleArea\SpyGramShiftAscii\obj\Debug\netcoreapp2.0\SpyGramShiftAscii.AssemblyInfo.cs
+C:\Users\Bobi\charp\projects\RectangleArea\SpyGramShiftAscii\obj\Debug\netcoreapp2.0\SpyGramShiftAscii.dll
+C:\Users\Bobi\charp\projects\RectangleArea\SpyGramShiftAscii\obj\Debug\netcoreapp2.0\SpyGramShiftAscii.pdb

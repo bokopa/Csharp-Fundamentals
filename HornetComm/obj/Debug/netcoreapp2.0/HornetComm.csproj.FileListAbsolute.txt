@@ -1,0 +1,11 @@
+C:\Users\Bobi\charp\projects\RectangleArea\HornetComm\bin\Debug\netcoreapp2.0\HornetComm.deps.json
+C:\Users\Bobi\charp\projects\RectangleArea\HornetComm\bin\Debug\netcoreapp2.0\HornetComm.runtimeconfig.json
+C:\Users\Bobi\charp\projects\RectangleArea\HornetComm\bin\Debug\netcoreapp2.0\HornetComm.runtimeconfig.dev.json
+C:\Users\Bobi\charp\projects\RectangleArea\HornetComm\bin\Debug\netcoreapp2.0\HornetComm.dll
+C:\Users\Bobi\charp\projects\RectangleArea\HornetComm\bin\Debug\netcoreapp2.0\HornetComm.pdb
+C:\Users\Bobi\charp\projects\RectangleArea\HornetComm\obj\Debug\netcoreapp2.0\HornetComm.csprojResolveAssemblyReference.cache
+C:\Users\Bobi\charp\projects\RectangleArea\HornetComm\obj\Debug\netcoreapp2.0\HornetComm.csproj.CoreCompileInputs.cache
+C:\Users\Bobi\charp\projects\RectangleArea\HornetComm\obj\Debug\netcoreapp2.0\HornetComm.AssemblyInfoInputs.cache
+C:\Users\Bobi\charp\projects\RectangleArea\HornetComm\obj\Debug\netcoreapp2.0\HornetComm.AssemblyInfo.cs
+C:\Users\Bobi\charp\projects\RectangleArea\HornetComm\obj\Debug\netcoreapp2.0\HornetComm.dll
+C:\Users\Bobi\charp\projects\RectangleArea\HornetComm\obj\Debug\netcoreapp2.0\HornetComm.pdb

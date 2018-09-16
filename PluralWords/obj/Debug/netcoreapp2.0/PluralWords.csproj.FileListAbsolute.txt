@@ -1,0 +1,10 @@
+C:\Users\Bobi\charp\projects\RectangleArea\PluralWords\obj\Debug\netcoreapp2.0\PluralWords.csproj.CoreCompileInputs.cache
+C:\Users\Bobi\charp\projects\RectangleArea\PluralWords\obj\Debug\netcoreapp2.0\PluralWords.AssemblyInfoInputs.cache
+C:\Users\Bobi\charp\projects\RectangleArea\PluralWords\obj\Debug\netcoreapp2.0\PluralWords.AssemblyInfo.cs
+C:\Users\Bobi\charp\projects\RectangleArea\PluralWords\bin\Debug\netcoreapp2.0\PluralWords.deps.json
+C:\Users\Bobi\charp\projects\RectangleArea\PluralWords\bin\Debug\netcoreapp2.0\PluralWords.runtimeconfig.json
+C:\Users\Bobi\charp\projects\RectangleArea\PluralWords\bin\Debug\netcoreapp2.0\PluralWords.runtimeconfig.dev.json
+C:\Users\Bobi\charp\projects\RectangleArea\PluralWords\bin\Debug\netcoreapp2.0\PluralWords.dll
+C:\Users\Bobi\charp\projects\RectangleArea\PluralWords\bin\Debug\netcoreapp2.0\PluralWords.pdb
+C:\Users\Bobi\charp\projects\RectangleArea\PluralWords\obj\Debug\netcoreapp2.0\PluralWords.dll
+C:\Users\Bobi\charp\projects\RectangleArea\PluralWords\obj\Debug\netcoreapp2.0\PluralWords.pdb

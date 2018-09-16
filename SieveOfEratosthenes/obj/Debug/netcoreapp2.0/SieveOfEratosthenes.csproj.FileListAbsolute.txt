@@ -1,0 +1,10 @@
+C:\Users\Bobi\charp\projects\RectangleArea\SieveOfEratosthenes\bin\Debug\netcoreapp2.0\SieveOfEratosthenes.deps.json
+C:\Users\Bobi\charp\projects\RectangleArea\SieveOfEratosthenes\bin\Debug\netcoreapp2.0\SieveOfEratosthenes.runtimeconfig.json
+C:\Users\Bobi\charp\projects\RectangleArea\SieveOfEratosthenes\bin\Debug\netcoreapp2.0\SieveOfEratosthenes.runtimeconfig.dev.json
+C:\Users\Bobi\charp\projects\RectangleArea\SieveOfEratosthenes\bin\Debug\netcoreapp2.0\SieveOfEratosthenes.dll
+C:\Users\Bobi\charp\projects\RectangleArea\SieveOfEratosthenes\bin\Debug\netcoreapp2.0\SieveOfEratosthenes.pdb
+C:\Users\Bobi\charp\projects\RectangleArea\SieveOfEratosthenes\obj\Debug\netcoreapp2.0\SieveOfEratosthenes.csproj.CoreCompileInputs.cache
+C:\Users\Bobi\charp\projects\RectangleArea\SieveOfEratosthenes\obj\Debug\netcoreapp2.0\SieveOfEratosthenes.AssemblyInfoInputs.cache
+C:\Users\Bobi\charp\projects\RectangleArea\SieveOfEratosthenes\obj\Debug\netcoreapp2.0\SieveOfEratosthenes.AssemblyInfo.cs
+C:\Users\Bobi\charp\projects\RectangleArea\SieveOfEratosthenes\obj\Debug\netcoreapp2.0\SieveOfEratosthenes.dll
+C:\Users\Bobi\charp\projects\RectangleArea\SieveOfEratosthenes\obj\Debug\netcoreapp2.0\SieveOfEratosthenes.pdb

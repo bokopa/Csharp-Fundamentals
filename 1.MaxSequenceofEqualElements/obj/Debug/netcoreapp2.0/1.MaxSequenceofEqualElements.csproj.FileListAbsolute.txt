@@ -1,0 +1,10 @@
+C:\Users\Bobi\charp\projects\RectangleArea\1.MaxSequenceofEqualElements\bin\Debug\netcoreapp2.0\1.MaxSequenceofEqualElements.deps.json
+C:\Users\Bobi\charp\projects\RectangleArea\1.MaxSequenceofEqualElements\bin\Debug\netcoreapp2.0\1.MaxSequenceofEqualElements.runtimeconfig.json
+C:\Users\Bobi\charp\projects\RectangleArea\1.MaxSequenceofEqualElements\bin\Debug\netcoreapp2.0\1.MaxSequenceofEqualElements.runtimeconfig.dev.json
+C:\Users\Bobi\charp\projects\RectangleArea\1.MaxSequenceofEqualElements\bin\Debug\netcoreapp2.0\1.MaxSequenceofEqualElements.dll
+C:\Users\Bobi\charp\projects\RectangleArea\1.MaxSequenceofEqualElements\bin\Debug\netcoreapp2.0\1.MaxSequenceofEqualElements.pdb
+C:\Users\Bobi\charp\projects\RectangleArea\1.MaxSequenceofEqualElements\obj\Debug\netcoreapp2.0\1.MaxSequenceofEqualElements.csproj.CoreCompileInputs.cache
+C:\Users\Bobi\charp\projects\RectangleArea\1.MaxSequenceofEqualElements\obj\Debug\netcoreapp2.0\1.MaxSequenceofEqualElements.AssemblyInfoInputs.cache
+C:\Users\Bobi\charp\projects\RectangleArea\1.MaxSequenceofEqualElements\obj\Debug\netcoreapp2.0\1.MaxSequenceofEqualElements.AssemblyInfo.cs
+C:\Users\Bobi\charp\projects\RectangleArea\1.MaxSequenceofEqualElements\obj\Debug\netcoreapp2.0\1.MaxSequenceofEqualElements.dll
+C:\Users\Bobi\charp\projects\RectangleArea\1.MaxSequenceofEqualElements\obj\Debug\netcoreapp2.0\1.MaxSequenceofEqualElements.pdb

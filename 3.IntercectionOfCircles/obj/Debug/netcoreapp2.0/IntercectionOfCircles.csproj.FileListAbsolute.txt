@@ -1,0 +1,10 @@
+C:\Users\Bobi\charp\projects\RectangleArea\3.IntercectionOfCircles\obj\Debug\netcoreapp2.0\IntercectionOfCircles.csproj.CoreCompileInputs.cache
+C:\Users\Bobi\charp\projects\RectangleArea\3.IntercectionOfCircles\obj\Debug\netcoreapp2.0\IntercectionOfCircles.AssemblyInfoInputs.cache
+C:\Users\Bobi\charp\projects\RectangleArea\3.IntercectionOfCircles\obj\Debug\netcoreapp2.0\IntercectionOfCircles.AssemblyInfo.cs
+C:\Users\Bobi\charp\projects\RectangleArea\3.IntercectionOfCircles\bin\Debug\netcoreapp2.0\IntercectionOfCircles.deps.json
+C:\Users\Bobi\charp\projects\RectangleArea\3.IntercectionOfCircles\bin\Debug\netcoreapp2.0\IntercectionOfCircles.runtimeconfig.json
+C:\Users\Bobi\charp\projects\RectangleArea\3.IntercectionOfCircles\bin\Debug\netcoreapp2.0\IntercectionOfCircles.runtimeconfig.dev.json
+C:\Users\Bobi\charp\projects\RectangleArea\3.IntercectionOfCircles\bin\Debug\netcoreapp2.0\IntercectionOfCircles.dll
+C:\Users\Bobi\charp\projects\RectangleArea\3.IntercectionOfCircles\bin\Debug\netcoreapp2.0\IntercectionOfCircles.pdb
+C:\Users\Bobi\charp\projects\RectangleArea\3.IntercectionOfCircles\obj\Debug\netcoreapp2.0\IntercectionOfCircles.dll
+C:\Users\Bobi\charp\projects\RectangleArea\3.IntercectionOfCircles\obj\Debug\netcoreapp2.0\IntercectionOfCircles.pdb

@@ -1,0 +1,10 @@
+C:\Users\Bobi\charp\projects\RectangleArea\CubeProperties\bin\Debug\netcoreapp2.0\CubeProperties.deps.json
+C:\Users\Bobi\charp\projects\RectangleArea\CubeProperties\bin\Debug\netcoreapp2.0\CubeProperties.runtimeconfig.json
+C:\Users\Bobi\charp\projects\RectangleArea\CubeProperties\bin\Debug\netcoreapp2.0\CubeProperties.runtimeconfig.dev.json
+C:\Users\Bobi\charp\projects\RectangleArea\CubeProperties\bin\Debug\netcoreapp2.0\CubeProperties.dll
+C:\Users\Bobi\charp\projects\RectangleArea\CubeProperties\bin\Debug\netcoreapp2.0\CubeProperties.pdb
+C:\Users\Bobi\charp\projects\RectangleArea\CubeProperties\obj\Debug\netcoreapp2.0\CubeProperties.csproj.CoreCompileInputs.cache
+C:\Users\Bobi\charp\projects\RectangleArea\CubeProperties\obj\Debug\netcoreapp2.0\CubeProperties.AssemblyInfoInputs.cache
+C:\Users\Bobi\charp\projects\RectangleArea\CubeProperties\obj\Debug\netcoreapp2.0\CubeProperties.AssemblyInfo.cs
+C:\Users\Bobi\charp\projects\RectangleArea\CubeProperties\obj\Debug\netcoreapp2.0\CubeProperties.dll
+C:\Users\Bobi\charp\projects\RectangleArea\CubeProperties\obj\Debug\netcoreapp2.0\CubeProperties.pdb

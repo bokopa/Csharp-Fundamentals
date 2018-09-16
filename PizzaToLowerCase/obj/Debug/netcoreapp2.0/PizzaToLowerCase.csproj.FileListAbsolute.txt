@@ -1,0 +1,10 @@
+C:\Users\Bobi\charp\projects\RectangleArea\PizzaToLowerCase\obj\Debug\netcoreapp2.0\PizzaToLowerCase.csproj.CoreCompileInputs.cache
+C:\Users\Bobi\charp\projects\RectangleArea\PizzaToLowerCase\obj\Debug\netcoreapp2.0\PizzaToLowerCase.AssemblyInfoInputs.cache
+C:\Users\Bobi\charp\projects\RectangleArea\PizzaToLowerCase\obj\Debug\netcoreapp2.0\PizzaToLowerCase.AssemblyInfo.cs
+C:\Users\Bobi\charp\projects\RectangleArea\PizzaToLowerCase\bin\Debug\netcoreapp2.0\PizzaToLowerCase.deps.json
+C:\Users\Bobi\charp\projects\RectangleArea\PizzaToLowerCase\bin\Debug\netcoreapp2.0\PizzaToLowerCase.runtimeconfig.json
+C:\Users\Bobi\charp\projects\RectangleArea\PizzaToLowerCase\bin\Debug\netcoreapp2.0\PizzaToLowerCase.runtimeconfig.dev.json
+C:\Users\Bobi\charp\projects\RectangleArea\PizzaToLowerCase\bin\Debug\netcoreapp2.0\PizzaToLowerCase.dll
+C:\Users\Bobi\charp\projects\RectangleArea\PizzaToLowerCase\bin\Debug\netcoreapp2.0\PizzaToLowerCase.pdb
+C:\Users\Bobi\charp\projects\RectangleArea\PizzaToLowerCase\obj\Debug\netcoreapp2.0\PizzaToLowerCase.dll
+C:\Users\Bobi\charp\projects\RectangleArea\PizzaToLowerCase\obj\Debug\netcoreapp2.0\PizzaToLowerCase.pdb

@@ -1,0 +1,11 @@
+C:\Users\Bobi\charp\projects\RectangleArea\Lokomotive\obj\Debug\netcoreapp2.0\Lokomotive.csproj.CoreCompileInputs.cache
+C:\Users\Bobi\charp\projects\RectangleArea\Lokomotive\obj\Debug\netcoreapp2.0\Lokomotive.AssemblyInfoInputs.cache
+C:\Users\Bobi\charp\projects\RectangleArea\Lokomotive\obj\Debug\netcoreapp2.0\Lokomotive.AssemblyInfo.cs
+C:\Users\Bobi\charp\projects\RectangleArea\Lokomotive\bin\Debug\netcoreapp2.0\Lokomotive.deps.json
+C:\Users\Bobi\charp\projects\RectangleArea\Lokomotive\bin\Debug\netcoreapp2.0\Lokomotive.runtimeconfig.json
+C:\Users\Bobi\charp\projects\RectangleArea\Lokomotive\bin\Debug\netcoreapp2.0\Lokomotive.runtimeconfig.dev.json
+C:\Users\Bobi\charp\projects\RectangleArea\Lokomotive\bin\Debug\netcoreapp2.0\Lokomotive.dll
+C:\Users\Bobi\charp\projects\RectangleArea\Lokomotive\bin\Debug\netcoreapp2.0\Lokomotive.pdb
+C:\Users\Bobi\charp\projects\RectangleArea\Lokomotive\obj\Debug\netcoreapp2.0\Lokomotive.csprojResolveAssemblyReference.cache
+C:\Users\Bobi\charp\projects\RectangleArea\Lokomotive\obj\Debug\netcoreapp2.0\Lokomotive.dll
+C:\Users\Bobi\charp\projects\RectangleArea\Lokomotive\obj\Debug\netcoreapp2.0\Lokomotive.pdb

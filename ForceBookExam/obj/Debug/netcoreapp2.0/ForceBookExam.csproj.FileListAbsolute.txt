@@ -1,0 +1,11 @@
+C:\Users\Bobi\charp\projects\RectangleArea\ForceBookExam\bin\Debug\netcoreapp2.0\ForceBookExam.deps.json
+C:\Users\Bobi\charp\projects\RectangleArea\ForceBookExam\bin\Debug\netcoreapp2.0\ForceBookExam.runtimeconfig.json
+C:\Users\Bobi\charp\projects\RectangleArea\ForceBookExam\bin\Debug\netcoreapp2.0\ForceBookExam.runtimeconfig.dev.json
+C:\Users\Bobi\charp\projects\RectangleArea\ForceBookExam\bin\Debug\netcoreapp2.0\ForceBookExam.dll
+C:\Users\Bobi\charp\projects\RectangleArea\ForceBookExam\bin\Debug\netcoreapp2.0\ForceBookExam.pdb
+C:\Users\Bobi\charp\projects\RectangleArea\ForceBookExam\obj\Debug\netcoreapp2.0\ForceBookExam.csprojResolveAssemblyReference.cache
+C:\Users\Bobi\charp\projects\RectangleArea\ForceBookExam\obj\Debug\netcoreapp2.0\ForceBookExam.csproj.CoreCompileInputs.cache
+C:\Users\Bobi\charp\projects\RectangleArea\ForceBookExam\obj\Debug\netcoreapp2.0\ForceBookExam.AssemblyInfoInputs.cache
+C:\Users\Bobi\charp\projects\RectangleArea\ForceBookExam\obj\Debug\netcoreapp2.0\ForceBookExam.AssemblyInfo.cs
+C:\Users\Bobi\charp\projects\RectangleArea\ForceBookExam\obj\Debug\netcoreapp2.0\ForceBookExam.dll
+C:\Users\Bobi\charp\projects\RectangleArea\ForceBookExam\obj\Debug\netcoreapp2.0\ForceBookExam.pdb

@@ -1,0 +1,10 @@
+C:\Users\Bobi\charp\projects\RectangleArea\MaxSequenceofIncreasingElements\bin\Debug\netcoreapp2.0\MaxSequenceofIncreasingElements.deps.json
+C:\Users\Bobi\charp\projects\RectangleArea\MaxSequenceofIncreasingElements\bin\Debug\netcoreapp2.0\MaxSequenceofIncreasingElements.runtimeconfig.json
+C:\Users\Bobi\charp\projects\RectangleArea\MaxSequenceofIncreasingElements\bin\Debug\netcoreapp2.0\MaxSequenceofIncreasingElements.runtimeconfig.dev.json
+C:\Users\Bobi\charp\projects\RectangleArea\MaxSequenceofIncreasingElements\bin\Debug\netcoreapp2.0\MaxSequenceofIncreasingElements.dll
+C:\Users\Bobi\charp\projects\RectangleArea\MaxSequenceofIncreasingElements\bin\Debug\netcoreapp2.0\MaxSequenceofIncreasingElements.pdb
+C:\Users\Bobi\charp\projects\RectangleArea\MaxSequenceofIncreasingElements\obj\Debug\netcoreapp2.0\MaxSequenceofIncreasingElements.csproj.CoreCompileInputs.cache
+C:\Users\Bobi\charp\projects\RectangleArea\MaxSequenceofIncreasingElements\obj\Debug\netcoreapp2.0\MaxSequenceofIncreasingElements.AssemblyInfoInputs.cache
+C:\Users\Bobi\charp\projects\RectangleArea\MaxSequenceofIncreasingElements\obj\Debug\netcoreapp2.0\MaxSequenceofIncreasingElements.AssemblyInfo.cs
+C:\Users\Bobi\charp\projects\RectangleArea\MaxSequenceofIncreasingElements\obj\Debug\netcoreapp2.0\MaxSequenceofIncreasingElements.dll
+C:\Users\Bobi\charp\projects\RectangleArea\MaxSequenceofIncreasingElements\obj\Debug\netcoreapp2.0\MaxSequenceofIncreasingElements.pdb

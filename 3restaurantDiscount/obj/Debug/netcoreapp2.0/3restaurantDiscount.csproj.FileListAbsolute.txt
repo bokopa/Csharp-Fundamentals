@@ -1,0 +1,10 @@
+C:\Users\Bobi\charp\projects\RectangleArea\3restaurantDiscount\bin\Debug\netcoreapp2.0\3restaurantDiscount.deps.json
+C:\Users\Bobi\charp\projects\RectangleArea\3restaurantDiscount\bin\Debug\netcoreapp2.0\3restaurantDiscount.runtimeconfig.json
+C:\Users\Bobi\charp\projects\RectangleArea\3restaurantDiscount\bin\Debug\netcoreapp2.0\3restaurantDiscount.runtimeconfig.dev.json
+C:\Users\Bobi\charp\projects\RectangleArea\3restaurantDiscount\bin\Debug\netcoreapp2.0\3restaurantDiscount.dll
+C:\Users\Bobi\charp\projects\RectangleArea\3restaurantDiscount\bin\Debug\netcoreapp2.0\3restaurantDiscount.pdb
+C:\Users\Bobi\charp\projects\RectangleArea\3restaurantDiscount\obj\Debug\netcoreapp2.0\3restaurantDiscount.csproj.CoreCompileInputs.cache
+C:\Users\Bobi\charp\projects\RectangleArea\3restaurantDiscount\obj\Debug\netcoreapp2.0\3restaurantDiscount.AssemblyInfoInputs.cache
+C:\Users\Bobi\charp\projects\RectangleArea\3restaurantDiscount\obj\Debug\netcoreapp2.0\3restaurantDiscount.AssemblyInfo.cs
+C:\Users\Bobi\charp\projects\RectangleArea\3restaurantDiscount\obj\Debug\netcoreapp2.0\3restaurantDiscount.dll
+C:\Users\Bobi\charp\projects\RectangleArea\3restaurantDiscount\obj\Debug\netcoreapp2.0\3restaurantDiscount.pdb

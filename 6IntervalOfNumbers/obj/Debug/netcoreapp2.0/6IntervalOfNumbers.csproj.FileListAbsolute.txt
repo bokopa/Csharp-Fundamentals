@@ -1,0 +1,10 @@
+C:\Users\Bobi\charp\projects\RectangleArea\6IntervalOfNumbers\bin\Debug\netcoreapp2.0\6IntervalOfNumbers.deps.json
+C:\Users\Bobi\charp\projects\RectangleArea\6IntervalOfNumbers\bin\Debug\netcoreapp2.0\6IntervalOfNumbers.runtimeconfig.json
+C:\Users\Bobi\charp\projects\RectangleArea\6IntervalOfNumbers\bin\Debug\netcoreapp2.0\6IntervalOfNumbers.runtimeconfig.dev.json
+C:\Users\Bobi\charp\projects\RectangleArea\6IntervalOfNumbers\bin\Debug\netcoreapp2.0\6IntervalOfNumbers.dll
+C:\Users\Bobi\charp\projects\RectangleArea\6IntervalOfNumbers\bin\Debug\netcoreapp2.0\6IntervalOfNumbers.pdb
+C:\Users\Bobi\charp\projects\RectangleArea\6IntervalOfNumbers\obj\Debug\netcoreapp2.0\6IntervalOfNumbers.csproj.CoreCompileInputs.cache
+C:\Users\Bobi\charp\projects\RectangleArea\6IntervalOfNumbers\obj\Debug\netcoreapp2.0\6IntervalOfNumbers.AssemblyInfoInputs.cache
+C:\Users\Bobi\charp\projects\RectangleArea\6IntervalOfNumbers\obj\Debug\netcoreapp2.0\6IntervalOfNumbers.AssemblyInfo.cs
+C:\Users\Bobi\charp\projects\RectangleArea\6IntervalOfNumbers\obj\Debug\netcoreapp2.0\6IntervalOfNumbers.dll
+C:\Users\Bobi\charp\projects\RectangleArea\6IntervalOfNumbers\obj\Debug\netcoreapp2.0\6IntervalOfNumbers.pdb

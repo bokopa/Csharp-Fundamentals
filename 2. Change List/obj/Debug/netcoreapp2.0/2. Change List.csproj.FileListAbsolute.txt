@@ -1,0 +1,10 @@
+C:\Users\Bobi\charp\projects\RectangleArea\2. Change List\bin\Debug\netcoreapp2.0\2. Change List.deps.json
+C:\Users\Bobi\charp\projects\RectangleArea\2. Change List\bin\Debug\netcoreapp2.0\2. Change List.runtimeconfig.json
+C:\Users\Bobi\charp\projects\RectangleArea\2. Change List\bin\Debug\netcoreapp2.0\2. Change List.runtimeconfig.dev.json
+C:\Users\Bobi\charp\projects\RectangleArea\2. Change List\bin\Debug\netcoreapp2.0\2. Change List.dll
+C:\Users\Bobi\charp\projects\RectangleArea\2. Change List\bin\Debug\netcoreapp2.0\2. Change List.pdb
+C:\Users\Bobi\charp\projects\RectangleArea\2. Change List\obj\Debug\netcoreapp2.0\2. Change List.csproj.CoreCompileInputs.cache
+C:\Users\Bobi\charp\projects\RectangleArea\2. Change List\obj\Debug\netcoreapp2.0\2. Change List.AssemblyInfoInputs.cache
+C:\Users\Bobi\charp\projects\RectangleArea\2. Change List\obj\Debug\netcoreapp2.0\2. Change List.AssemblyInfo.cs
+C:\Users\Bobi\charp\projects\RectangleArea\2. Change List\obj\Debug\netcoreapp2.0\2. Change List.dll
+C:\Users\Bobi\charp\projects\RectangleArea\2. Change List\obj\Debug\netcoreapp2.0\2. Change List.pdb

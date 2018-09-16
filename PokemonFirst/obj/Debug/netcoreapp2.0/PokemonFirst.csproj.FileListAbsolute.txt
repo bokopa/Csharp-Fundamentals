@@ -1,0 +1,11 @@
+C:\Users\Bobi\charp\projects\RectangleArea\PokemonFirst\bin\Debug\netcoreapp2.0\PokemonFirst.deps.json
+C:\Users\Bobi\charp\projects\RectangleArea\PokemonFirst\bin\Debug\netcoreapp2.0\PokemonFirst.runtimeconfig.json
+C:\Users\Bobi\charp\projects\RectangleArea\PokemonFirst\bin\Debug\netcoreapp2.0\PokemonFirst.runtimeconfig.dev.json
+C:\Users\Bobi\charp\projects\RectangleArea\PokemonFirst\bin\Debug\netcoreapp2.0\PokemonFirst.dll
+C:\Users\Bobi\charp\projects\RectangleArea\PokemonFirst\bin\Debug\netcoreapp2.0\PokemonFirst.pdb
+C:\Users\Bobi\charp\projects\RectangleArea\PokemonFirst\obj\Debug\netcoreapp2.0\PokemonFirst.csprojResolveAssemblyReference.cache
+C:\Users\Bobi\charp\projects\RectangleArea\PokemonFirst\obj\Debug\netcoreapp2.0\PokemonFirst.csproj.CoreCompileInputs.cache
+C:\Users\Bobi\charp\projects\RectangleArea\PokemonFirst\obj\Debug\netcoreapp2.0\PokemonFirst.AssemblyInfoInputs.cache
+C:\Users\Bobi\charp\projects\RectangleArea\PokemonFirst\obj\Debug\netcoreapp2.0\PokemonFirst.AssemblyInfo.cs
+C:\Users\Bobi\charp\projects\RectangleArea\PokemonFirst\obj\Debug\netcoreapp2.0\PokemonFirst.dll
+C:\Users\Bobi\charp\projects\RectangleArea\PokemonFirst\obj\Debug\netcoreapp2.0\PokemonFirst.pdb

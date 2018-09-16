@@ -1,0 +1,11 @@
+C:\Users\Bobi\charp\projects\RectangleArea\LadyBugs\bin\Debug\netcoreapp2.0\LadyBugs.deps.json
+C:\Users\Bobi\charp\projects\RectangleArea\LadyBugs\bin\Debug\netcoreapp2.0\LadyBugs.runtimeconfig.json
+C:\Users\Bobi\charp\projects\RectangleArea\LadyBugs\bin\Debug\netcoreapp2.0\LadyBugs.runtimeconfig.dev.json
+C:\Users\Bobi\charp\projects\RectangleArea\LadyBugs\bin\Debug\netcoreapp2.0\LadyBugs.dll
+C:\Users\Bobi\charp\projects\RectangleArea\LadyBugs\bin\Debug\netcoreapp2.0\LadyBugs.pdb
+C:\Users\Bobi\charp\projects\RectangleArea\LadyBugs\obj\Debug\netcoreapp2.0\LadyBugs.csprojResolveAssemblyReference.cache
+C:\Users\Bobi\charp\projects\RectangleArea\LadyBugs\obj\Debug\netcoreapp2.0\LadyBugs.csproj.CoreCompileInputs.cache
+C:\Users\Bobi\charp\projects\RectangleArea\LadyBugs\obj\Debug\netcoreapp2.0\LadyBugs.AssemblyInfoInputs.cache
+C:\Users\Bobi\charp\projects\RectangleArea\LadyBugs\obj\Debug\netcoreapp2.0\LadyBugs.AssemblyInfo.cs
+C:\Users\Bobi\charp\projects\RectangleArea\LadyBugs\obj\Debug\netcoreapp2.0\LadyBugs.dll
+C:\Users\Bobi\charp\projects\RectangleArea\LadyBugs\obj\Debug\netcoreapp2.0\LadyBugs.pdb

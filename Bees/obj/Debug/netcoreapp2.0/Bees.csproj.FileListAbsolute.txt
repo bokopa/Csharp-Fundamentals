@@ -1,0 +1,11 @@
+C:\Users\Bobi\charp\projects\RectangleArea\Bees\bin\Debug\netcoreapp2.0\Bees.deps.json
+C:\Users\Bobi\charp\projects\RectangleArea\Bees\bin\Debug\netcoreapp2.0\Bees.runtimeconfig.json
+C:\Users\Bobi\charp\projects\RectangleArea\Bees\bin\Debug\netcoreapp2.0\Bees.runtimeconfig.dev.json
+C:\Users\Bobi\charp\projects\RectangleArea\Bees\bin\Debug\netcoreapp2.0\Bees.dll
+C:\Users\Bobi\charp\projects\RectangleArea\Bees\bin\Debug\netcoreapp2.0\Bees.pdb
+C:\Users\Bobi\charp\projects\RectangleArea\Bees\obj\Debug\netcoreapp2.0\Bees.csprojResolveAssemblyReference.cache
+C:\Users\Bobi\charp\projects\RectangleArea\Bees\obj\Debug\netcoreapp2.0\Bees.csproj.CoreCompileInputs.cache
+C:\Users\Bobi\charp\projects\RectangleArea\Bees\obj\Debug\netcoreapp2.0\Bees.AssemblyInfoInputs.cache
+C:\Users\Bobi\charp\projects\RectangleArea\Bees\obj\Debug\netcoreapp2.0\Bees.AssemblyInfo.cs
+C:\Users\Bobi\charp\projects\RectangleArea\Bees\obj\Debug\netcoreapp2.0\Bees.dll
+C:\Users\Bobi\charp\projects\RectangleArea\Bees\obj\Debug\netcoreapp2.0\Bees.pdb

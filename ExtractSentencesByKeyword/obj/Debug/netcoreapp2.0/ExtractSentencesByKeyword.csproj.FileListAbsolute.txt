@@ -1,0 +1,11 @@
+C:\Users\Bobi\charp\projects\RectangleArea\ExtractSentencesByKeyword\bin\Debug\netcoreapp2.0\ExtractSentencesByKeyword.deps.json
+C:\Users\Bobi\charp\projects\RectangleArea\ExtractSentencesByKeyword\bin\Debug\netcoreapp2.0\ExtractSentencesByKeyword.runtimeconfig.json
+C:\Users\Bobi\charp\projects\RectangleArea\ExtractSentencesByKeyword\bin\Debug\netcoreapp2.0\ExtractSentencesByKeyword.runtimeconfig.dev.json
+C:\Users\Bobi\charp\projects\RectangleArea\ExtractSentencesByKeyword\bin\Debug\netcoreapp2.0\ExtractSentencesByKeyword.dll
+C:\Users\Bobi\charp\projects\RectangleArea\ExtractSentencesByKeyword\bin\Debug\netcoreapp2.0\ExtractSentencesByKeyword.pdb
+C:\Users\Bobi\charp\projects\RectangleArea\ExtractSentencesByKeyword\obj\Debug\netcoreapp2.0\ExtractSentencesByKeyword.csprojResolveAssemblyReference.cache
+C:\Users\Bobi\charp\projects\RectangleArea\ExtractSentencesByKeyword\obj\Debug\netcoreapp2.0\ExtractSentencesByKeyword.csproj.CoreCompileInputs.cache
+C:\Users\Bobi\charp\projects\RectangleArea\ExtractSentencesByKeyword\obj\Debug\netcoreapp2.0\ExtractSentencesByKeyword.AssemblyInfoInputs.cache
+C:\Users\Bobi\charp\projects\RectangleArea\ExtractSentencesByKeyword\obj\Debug\netcoreapp2.0\ExtractSentencesByKeyword.AssemblyInfo.cs
+C:\Users\Bobi\charp\projects\RectangleArea\ExtractSentencesByKeyword\obj\Debug\netcoreapp2.0\ExtractSentencesByKeyword.dll
+C:\Users\Bobi\charp\projects\RectangleArea\ExtractSentencesByKeyword\obj\Debug\netcoreapp2.0\ExtractSentencesByKeyword.pdb

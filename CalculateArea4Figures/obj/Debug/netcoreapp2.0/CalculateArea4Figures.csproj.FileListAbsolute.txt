@@ -1,0 +1,10 @@
+C:\Users\Bobi\charp\projects\RectangleArea\CalculateArea4Figures\bin\Debug\netcoreapp2.0\CalculateArea4Figures.deps.json
+C:\Users\Bobi\charp\projects\RectangleArea\CalculateArea4Figures\bin\Debug\netcoreapp2.0\CalculateArea4Figures.runtimeconfig.json
+C:\Users\Bobi\charp\projects\RectangleArea\CalculateArea4Figures\bin\Debug\netcoreapp2.0\CalculateArea4Figures.runtimeconfig.dev.json
+C:\Users\Bobi\charp\projects\RectangleArea\CalculateArea4Figures\bin\Debug\netcoreapp2.0\CalculateArea4Figures.dll
+C:\Users\Bobi\charp\projects\RectangleArea\CalculateArea4Figures\bin\Debug\netcoreapp2.0\CalculateArea4Figures.pdb
+C:\Users\Bobi\charp\projects\RectangleArea\CalculateArea4Figures\obj\Debug\netcoreapp2.0\CalculateArea4Figures.csproj.CoreCompileInputs.cache
+C:\Users\Bobi\charp\projects\RectangleArea\CalculateArea4Figures\obj\Debug\netcoreapp2.0\CalculateArea4Figures.AssemblyInfoInputs.cache
+C:\Users\Bobi\charp\projects\RectangleArea\CalculateArea4Figures\obj\Debug\netcoreapp2.0\CalculateArea4Figures.AssemblyInfo.cs
+C:\Users\Bobi\charp\projects\RectangleArea\CalculateArea4Figures\obj\Debug\netcoreapp2.0\CalculateArea4Figures.dll
+C:\Users\Bobi\charp\projects\RectangleArea\CalculateArea4Figures\obj\Debug\netcoreapp2.0\CalculateArea4Figures.pdb

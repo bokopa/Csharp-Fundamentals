@@ -1,0 +1,11 @@
+C:\Users\Bobi\charp\projects\RectangleArea\1.ConvertFrom Base-10toBase-N\bin\Debug\netcoreapp2.0\1.ConvertFrom Base-10toBase-N.deps.json
+C:\Users\Bobi\charp\projects\RectangleArea\1.ConvertFrom Base-10toBase-N\bin\Debug\netcoreapp2.0\1.ConvertFrom Base-10toBase-N.runtimeconfig.json
+C:\Users\Bobi\charp\projects\RectangleArea\1.ConvertFrom Base-10toBase-N\bin\Debug\netcoreapp2.0\1.ConvertFrom Base-10toBase-N.runtimeconfig.dev.json
+C:\Users\Bobi\charp\projects\RectangleArea\1.ConvertFrom Base-10toBase-N\bin\Debug\netcoreapp2.0\1.ConvertFrom Base-10toBase-N.dll
+C:\Users\Bobi\charp\projects\RectangleArea\1.ConvertFrom Base-10toBase-N\bin\Debug\netcoreapp2.0\1.ConvertFrom Base-10toBase-N.pdb
+C:\Users\Bobi\charp\projects\RectangleArea\1.ConvertFrom Base-10toBase-N\obj\Debug\netcoreapp2.0\1.ConvertFrom Base-10toBase-N.csprojResolveAssemblyReference.cache
+C:\Users\Bobi\charp\projects\RectangleArea\1.ConvertFrom Base-10toBase-N\obj\Debug\netcoreapp2.0\1.ConvertFrom Base-10toBase-N.csproj.CoreCompileInputs.cache
+C:\Users\Bobi\charp\projects\RectangleArea\1.ConvertFrom Base-10toBase-N\obj\Debug\netcoreapp2.0\1.ConvertFrom Base-10toBase-N.AssemblyInfoInputs.cache
+C:\Users\Bobi\charp\projects\RectangleArea\1.ConvertFrom Base-10toBase-N\obj\Debug\netcoreapp2.0\1.ConvertFrom Base-10toBase-N.AssemblyInfo.cs
+C:\Users\Bobi\charp\projects\RectangleArea\1.ConvertFrom Base-10toBase-N\obj\Debug\netcoreapp2.0\1.ConvertFrom Base-10toBase-N.dll
+C:\Users\Bobi\charp\projects\RectangleArea\1.ConvertFrom Base-10toBase-N\obj\Debug\netcoreapp2.0\1.ConvertFrom Base-10toBase-N.pdb

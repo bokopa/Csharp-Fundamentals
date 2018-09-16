@@ -1,0 +1,11 @@
+C:\Users\Bobi\charp\projects\RectangleArea\AnonimousVox\bin\Debug\netcoreapp2.0\AnonimousVox.deps.json
+C:\Users\Bobi\charp\projects\RectangleArea\AnonimousVox\bin\Debug\netcoreapp2.0\AnonimousVox.runtimeconfig.json
+C:\Users\Bobi\charp\projects\RectangleArea\AnonimousVox\bin\Debug\netcoreapp2.0\AnonimousVox.runtimeconfig.dev.json
+C:\Users\Bobi\charp\projects\RectangleArea\AnonimousVox\bin\Debug\netcoreapp2.0\AnonimousVox.dll
+C:\Users\Bobi\charp\projects\RectangleArea\AnonimousVox\bin\Debug\netcoreapp2.0\AnonimousVox.pdb
+C:\Users\Bobi\charp\projects\RectangleArea\AnonimousVox\obj\Debug\netcoreapp2.0\AnonimousVox.csproj.CoreCompileInputs.cache
+C:\Users\Bobi\charp\projects\RectangleArea\AnonimousVox\obj\Debug\netcoreapp2.0\AnonimousVox.AssemblyInfoInputs.cache
+C:\Users\Bobi\charp\projects\RectangleArea\AnonimousVox\obj\Debug\netcoreapp2.0\AnonimousVox.AssemblyInfo.cs
+C:\Users\Bobi\charp\projects\RectangleArea\AnonimousVox\obj\Debug\netcoreapp2.0\AnonimousVox.dll
+C:\Users\Bobi\charp\projects\RectangleArea\AnonimousVox\obj\Debug\netcoreapp2.0\AnonimousVox.pdb
+C:\Users\Bobi\charp\projects\RectangleArea\AnonimousVox\obj\Debug\netcoreapp2.0\AnonimousVox.csprojResolveAssemblyReference.cache

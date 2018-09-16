@@ -1,0 +1,10 @@
+C:\Users\Bobi\charp\projects\RectangleArea\7.BombNumbers\bin\Debug\netcoreapp2.0\7.BombNumbers.deps.json
+C:\Users\Bobi\charp\projects\RectangleArea\7.BombNumbers\bin\Debug\netcoreapp2.0\7.BombNumbers.runtimeconfig.json
+C:\Users\Bobi\charp\projects\RectangleArea\7.BombNumbers\bin\Debug\netcoreapp2.0\7.BombNumbers.runtimeconfig.dev.json
+C:\Users\Bobi\charp\projects\RectangleArea\7.BombNumbers\bin\Debug\netcoreapp2.0\7.BombNumbers.dll
+C:\Users\Bobi\charp\projects\RectangleArea\7.BombNumbers\bin\Debug\netcoreapp2.0\7.BombNumbers.pdb
+C:\Users\Bobi\charp\projects\RectangleArea\7.BombNumbers\obj\Debug\netcoreapp2.0\7.BombNumbers.csproj.CoreCompileInputs.cache
+C:\Users\Bobi\charp\projects\RectangleArea\7.BombNumbers\obj\Debug\netcoreapp2.0\7.BombNumbers.AssemblyInfoInputs.cache
+C:\Users\Bobi\charp\projects\RectangleArea\7.BombNumbers\obj\Debug\netcoreapp2.0\7.BombNumbers.AssemblyInfo.cs
+C:\Users\Bobi\charp\projects\RectangleArea\7.BombNumbers\obj\Debug\netcoreapp2.0\7.BombNumbers.dll
+C:\Users\Bobi\charp\projects\RectangleArea\7.BombNumbers\obj\Debug\netcoreapp2.0\7.BombNumbers.pdb

@@ -1,0 +1,11 @@
+C:\Users\Bobi\charp\projects\RectangleArea\MoneyConv\bin\Debug\netcoreapp2.0\MoneyConv.deps.json
+C:\Users\Bobi\charp\projects\RectangleArea\MoneyConv\bin\Debug\netcoreapp2.0\MoneyConv.runtimeconfig.json
+C:\Users\Bobi\charp\projects\RectangleArea\MoneyConv\bin\Debug\netcoreapp2.0\MoneyConv.runtimeconfig.dev.json
+C:\Users\Bobi\charp\projects\RectangleArea\MoneyConv\bin\Debug\netcoreapp2.0\MoneyConv.dll
+C:\Users\Bobi\charp\projects\RectangleArea\MoneyConv\bin\Debug\netcoreapp2.0\MoneyConv.pdb
+C:\Users\Bobi\charp\projects\RectangleArea\MoneyConv\obj\Debug\netcoreapp2.0\MoneyConv.csproj.CoreCompileInputs.cache
+C:\Users\Bobi\charp\projects\RectangleArea\MoneyConv\obj\Debug\netcoreapp2.0\MoneyConv.AssemblyInfoInputs.cache
+C:\Users\Bobi\charp\projects\RectangleArea\MoneyConv\obj\Debug\netcoreapp2.0\MoneyConv.AssemblyInfo.cs
+C:\Users\Bobi\charp\projects\RectangleArea\MoneyConv\obj\Debug\netcoreapp2.0\MoneyConv.dll
+C:\Users\Bobi\charp\projects\RectangleArea\MoneyConv\obj\Debug\netcoreapp2.0\MoneyConv.pdb
+C:\Users\Bobi\charp\projects\RectangleArea\MoneyConv\obj\Debug\netcoreapp2.0\MoneyConv.csprojResolveAssemblyReference.cache

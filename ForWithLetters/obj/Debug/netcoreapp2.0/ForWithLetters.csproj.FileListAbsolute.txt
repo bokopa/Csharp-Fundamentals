@@ -1,0 +1,10 @@
+C:\Users\Bobi\charp\projects\RectangleArea\ForWithLetters\bin\Debug\netcoreapp2.0\ForWithLetters.deps.json
+C:\Users\Bobi\charp\projects\RectangleArea\ForWithLetters\bin\Debug\netcoreapp2.0\ForWithLetters.runtimeconfig.json
+C:\Users\Bobi\charp\projects\RectangleArea\ForWithLetters\bin\Debug\netcoreapp2.0\ForWithLetters.runtimeconfig.dev.json
+C:\Users\Bobi\charp\projects\RectangleArea\ForWithLetters\bin\Debug\netcoreapp2.0\ForWithLetters.dll
+C:\Users\Bobi\charp\projects\RectangleArea\ForWithLetters\bin\Debug\netcoreapp2.0\ForWithLetters.pdb
+C:\Users\Bobi\charp\projects\RectangleArea\ForWithLetters\obj\Debug\netcoreapp2.0\ForWithLetters.csproj.CoreCompileInputs.cache
+C:\Users\Bobi\charp\projects\RectangleArea\ForWithLetters\obj\Debug\netcoreapp2.0\ForWithLetters.AssemblyInfoInputs.cache
+C:\Users\Bobi\charp\projects\RectangleArea\ForWithLetters\obj\Debug\netcoreapp2.0\ForWithLetters.AssemblyInfo.cs
+C:\Users\Bobi\charp\projects\RectangleArea\ForWithLetters\obj\Debug\netcoreapp2.0\ForWithLetters.dll
+C:\Users\Bobi\charp\projects\RectangleArea\ForWithLetters\obj\Debug\netcoreapp2.0\ForWithLetters.pdb

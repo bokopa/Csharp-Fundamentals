@@ -1,0 +1,10 @@
+C:\Users\Bobi\charp\projects\RectangleArea\RectangleProperties\bin\Debug\netcoreapp2.0\RectangleProperties.deps.json
+C:\Users\Bobi\charp\projects\RectangleArea\RectangleProperties\bin\Debug\netcoreapp2.0\RectangleProperties.runtimeconfig.json
+C:\Users\Bobi\charp\projects\RectangleArea\RectangleProperties\bin\Debug\netcoreapp2.0\RectangleProperties.runtimeconfig.dev.json
+C:\Users\Bobi\charp\projects\RectangleArea\RectangleProperties\bin\Debug\netcoreapp2.0\RectangleProperties.dll
+C:\Users\Bobi\charp\projects\RectangleArea\RectangleProperties\bin\Debug\netcoreapp2.0\RectangleProperties.pdb
+C:\Users\Bobi\charp\projects\RectangleArea\RectangleProperties\obj\Debug\netcoreapp2.0\RectangleProperties.csproj.CoreCompileInputs.cache
+C:\Users\Bobi\charp\projects\RectangleArea\RectangleProperties\obj\Debug\netcoreapp2.0\RectangleProperties.AssemblyInfoInputs.cache
+C:\Users\Bobi\charp\projects\RectangleArea\RectangleProperties\obj\Debug\netcoreapp2.0\RectangleProperties.AssemblyInfo.cs
+C:\Users\Bobi\charp\projects\RectangleArea\RectangleProperties\obj\Debug\netcoreapp2.0\RectangleProperties.dll
+C:\Users\Bobi\charp\projects\RectangleArea\RectangleProperties\obj\Debug\netcoreapp2.0\RectangleProperties.pdb

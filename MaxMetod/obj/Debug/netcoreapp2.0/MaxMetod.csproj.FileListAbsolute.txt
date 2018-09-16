@@ -1,0 +1,10 @@
+C:\Users\Bobi\charp\projects\RectangleArea\MaxMetod\obj\Debug\netcoreapp2.0\MaxMetod.csproj.CoreCompileInputs.cache
+C:\Users\Bobi\charp\projects\RectangleArea\MaxMetod\obj\Debug\netcoreapp2.0\MaxMetod.AssemblyInfoInputs.cache
+C:\Users\Bobi\charp\projects\RectangleArea\MaxMetod\obj\Debug\netcoreapp2.0\MaxMetod.AssemblyInfo.cs
+C:\Users\Bobi\charp\projects\RectangleArea\MaxMetod\bin\Debug\netcoreapp2.0\MaxMetod.deps.json
+C:\Users\Bobi\charp\projects\RectangleArea\MaxMetod\bin\Debug\netcoreapp2.0\MaxMetod.runtimeconfig.json
+C:\Users\Bobi\charp\projects\RectangleArea\MaxMetod\bin\Debug\netcoreapp2.0\MaxMetod.runtimeconfig.dev.json
+C:\Users\Bobi\charp\projects\RectangleArea\MaxMetod\bin\Debug\netcoreapp2.0\MaxMetod.dll
+C:\Users\Bobi\charp\projects\RectangleArea\MaxMetod\bin\Debug\netcoreapp2.0\MaxMetod.pdb
+C:\Users\Bobi\charp\projects\RectangleArea\MaxMetod\obj\Debug\netcoreapp2.0\MaxMetod.dll
+C:\Users\Bobi\charp\projects\RectangleArea\MaxMetod\obj\Debug\netcoreapp2.0\MaxMetod.pdb

@@ -1,0 +1,10 @@
+C:\Users\Bobi\charp\projects\RectangleArea\VowelOrDigit\bin\Debug\netcoreapp2.0\VowelOrDigit.deps.json
+C:\Users\Bobi\charp\projects\RectangleArea\VowelOrDigit\bin\Debug\netcoreapp2.0\VowelOrDigit.runtimeconfig.json
+C:\Users\Bobi\charp\projects\RectangleArea\VowelOrDigit\bin\Debug\netcoreapp2.0\VowelOrDigit.runtimeconfig.dev.json
+C:\Users\Bobi\charp\projects\RectangleArea\VowelOrDigit\bin\Debug\netcoreapp2.0\VowelOrDigit.dll
+C:\Users\Bobi\charp\projects\RectangleArea\VowelOrDigit\bin\Debug\netcoreapp2.0\VowelOrDigit.pdb
+C:\Users\Bobi\charp\projects\RectangleArea\VowelOrDigit\obj\Debug\netcoreapp2.0\VowelOrDigit.csproj.CoreCompileInputs.cache
+C:\Users\Bobi\charp\projects\RectangleArea\VowelOrDigit\obj\Debug\netcoreapp2.0\VowelOrDigit.AssemblyInfoInputs.cache
+C:\Users\Bobi\charp\projects\RectangleArea\VowelOrDigit\obj\Debug\netcoreapp2.0\VowelOrDigit.AssemblyInfo.cs
+C:\Users\Bobi\charp\projects\RectangleArea\VowelOrDigit\obj\Debug\netcoreapp2.0\VowelOrDigit.dll
+C:\Users\Bobi\charp\projects\RectangleArea\VowelOrDigit\obj\Debug\netcoreapp2.0\VowelOrDigit.pdb

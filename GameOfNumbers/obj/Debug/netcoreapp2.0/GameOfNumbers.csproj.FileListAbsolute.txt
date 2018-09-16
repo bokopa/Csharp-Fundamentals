@@ -1,0 +1,10 @@
+C:\Users\Bobi\charp\projects\RectangleArea\GameOfNumbers\bin\Debug\netcoreapp2.0\GameOfNumbers.deps.json
+C:\Users\Bobi\charp\projects\RectangleArea\GameOfNumbers\bin\Debug\netcoreapp2.0\GameOfNumbers.runtimeconfig.json
+C:\Users\Bobi\charp\projects\RectangleArea\GameOfNumbers\bin\Debug\netcoreapp2.0\GameOfNumbers.runtimeconfig.dev.json
+C:\Users\Bobi\charp\projects\RectangleArea\GameOfNumbers\bin\Debug\netcoreapp2.0\GameOfNumbers.dll
+C:\Users\Bobi\charp\projects\RectangleArea\GameOfNumbers\bin\Debug\netcoreapp2.0\GameOfNumbers.pdb
+C:\Users\Bobi\charp\projects\RectangleArea\GameOfNumbers\obj\Debug\netcoreapp2.0\GameOfNumbers.csproj.CoreCompileInputs.cache
+C:\Users\Bobi\charp\projects\RectangleArea\GameOfNumbers\obj\Debug\netcoreapp2.0\GameOfNumbers.AssemblyInfoInputs.cache
+C:\Users\Bobi\charp\projects\RectangleArea\GameOfNumbers\obj\Debug\netcoreapp2.0\GameOfNumbers.AssemblyInfo.cs
+C:\Users\Bobi\charp\projects\RectangleArea\GameOfNumbers\obj\Debug\netcoreapp2.0\GameOfNumbers.dll
+C:\Users\Bobi\charp\projects\RectangleArea\GameOfNumbers\obj\Debug\netcoreapp2.0\GameOfNumbers.pdb

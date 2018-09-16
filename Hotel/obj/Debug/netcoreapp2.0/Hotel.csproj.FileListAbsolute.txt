@@ -1,0 +1,10 @@
+C:\Users\Bobi\charp\projects\RectangleArea\Hotel\obj\Debug\netcoreapp2.0\Hotel.csproj.CoreCompileInputs.cache
+C:\Users\Bobi\charp\projects\RectangleArea\Hotel\obj\Debug\netcoreapp2.0\Hotel.AssemblyInfoInputs.cache
+C:\Users\Bobi\charp\projects\RectangleArea\Hotel\obj\Debug\netcoreapp2.0\Hotel.AssemblyInfo.cs
+C:\Users\Bobi\charp\projects\RectangleArea\Hotel\bin\Debug\netcoreapp2.0\Hotel.deps.json
+C:\Users\Bobi\charp\projects\RectangleArea\Hotel\bin\Debug\netcoreapp2.0\Hotel.runtimeconfig.json
+C:\Users\Bobi\charp\projects\RectangleArea\Hotel\bin\Debug\netcoreapp2.0\Hotel.runtimeconfig.dev.json
+C:\Users\Bobi\charp\projects\RectangleArea\Hotel\bin\Debug\netcoreapp2.0\Hotel.dll
+C:\Users\Bobi\charp\projects\RectangleArea\Hotel\bin\Debug\netcoreapp2.0\Hotel.pdb
+C:\Users\Bobi\charp\projects\RectangleArea\Hotel\obj\Debug\netcoreapp2.0\Hotel.dll
+C:\Users\Bobi\charp\projects\RectangleArea\Hotel\obj\Debug\netcoreapp2.0\Hotel.pdb

@@ -1,0 +1,10 @@
+C:\Users\Bobi\charp\projects\RectangleArea\FoldAndSum\bin\Debug\netcoreapp2.0\FoldAndSum.deps.json
+C:\Users\Bobi\charp\projects\RectangleArea\FoldAndSum\bin\Debug\netcoreapp2.0\FoldAndSum.runtimeconfig.json
+C:\Users\Bobi\charp\projects\RectangleArea\FoldAndSum\bin\Debug\netcoreapp2.0\FoldAndSum.runtimeconfig.dev.json
+C:\Users\Bobi\charp\projects\RectangleArea\FoldAndSum\bin\Debug\netcoreapp2.0\FoldAndSum.dll
+C:\Users\Bobi\charp\projects\RectangleArea\FoldAndSum\bin\Debug\netcoreapp2.0\FoldAndSum.pdb
+C:\Users\Bobi\charp\projects\RectangleArea\FoldAndSum\obj\Debug\netcoreapp2.0\FoldAndSum.csproj.CoreCompileInputs.cache
+C:\Users\Bobi\charp\projects\RectangleArea\FoldAndSum\obj\Debug\netcoreapp2.0\FoldAndSum.AssemblyInfoInputs.cache
+C:\Users\Bobi\charp\projects\RectangleArea\FoldAndSum\obj\Debug\netcoreapp2.0\FoldAndSum.AssemblyInfo.cs
+C:\Users\Bobi\charp\projects\RectangleArea\FoldAndSum\obj\Debug\netcoreapp2.0\FoldAndSum.dll
+C:\Users\Bobi\charp\projects\RectangleArea\FoldAndSum\obj\Debug\netcoreapp2.0\FoldAndSum.pdb

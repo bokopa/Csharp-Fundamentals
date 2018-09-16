@@ -1,0 +1,10 @@
+C:\Users\Bobi\charp\projects\RectangleArea\CoordinatePoint\bin\Debug\netcoreapp2.0\CoordinatePoint.deps.json
+C:\Users\Bobi\charp\projects\RectangleArea\CoordinatePoint\bin\Debug\netcoreapp2.0\CoordinatePoint.runtimeconfig.json
+C:\Users\Bobi\charp\projects\RectangleArea\CoordinatePoint\bin\Debug\netcoreapp2.0\CoordinatePoint.runtimeconfig.dev.json
+C:\Users\Bobi\charp\projects\RectangleArea\CoordinatePoint\bin\Debug\netcoreapp2.0\CoordinatePoint.dll
+C:\Users\Bobi\charp\projects\RectangleArea\CoordinatePoint\bin\Debug\netcoreapp2.0\CoordinatePoint.pdb
+C:\Users\Bobi\charp\projects\RectangleArea\CoordinatePoint\obj\Debug\netcoreapp2.0\CoordinatePoint.csproj.CoreCompileInputs.cache
+C:\Users\Bobi\charp\projects\RectangleArea\CoordinatePoint\obj\Debug\netcoreapp2.0\CoordinatePoint.AssemblyInfoInputs.cache
+C:\Users\Bobi\charp\projects\RectangleArea\CoordinatePoint\obj\Debug\netcoreapp2.0\CoordinatePoint.AssemblyInfo.cs
+C:\Users\Bobi\charp\projects\RectangleArea\CoordinatePoint\obj\Debug\netcoreapp2.0\CoordinatePoint.dll
+C:\Users\Bobi\charp\projects\RectangleArea\CoordinatePoint\obj\Debug\netcoreapp2.0\CoordinatePoint.pdb

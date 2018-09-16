@@ -1,0 +1,10 @@
+C:\Users\Bobi\charp\projects\RectangleArea\5.MagicExchangeableWords\bin\Debug\netcoreapp2.0\5.MagicExchangeableWords.deps.json
+C:\Users\Bobi\charp\projects\RectangleArea\5.MagicExchangeableWords\bin\Debug\netcoreapp2.0\5.MagicExchangeableWords.runtimeconfig.json
+C:\Users\Bobi\charp\projects\RectangleArea\5.MagicExchangeableWords\bin\Debug\netcoreapp2.0\5.MagicExchangeableWords.runtimeconfig.dev.json
+C:\Users\Bobi\charp\projects\RectangleArea\5.MagicExchangeableWords\bin\Debug\netcoreapp2.0\5.MagicExchangeableWords.dll
+C:\Users\Bobi\charp\projects\RectangleArea\5.MagicExchangeableWords\bin\Debug\netcoreapp2.0\5.MagicExchangeableWords.pdb
+C:\Users\Bobi\charp\projects\RectangleArea\5.MagicExchangeableWords\obj\Debug\netcoreapp2.0\5.MagicExchangeableWords.csproj.CoreCompileInputs.cache
+C:\Users\Bobi\charp\projects\RectangleArea\5.MagicExchangeableWords\obj\Debug\netcoreapp2.0\5.MagicExchangeableWords.AssemblyInfoInputs.cache
+C:\Users\Bobi\charp\projects\RectangleArea\5.MagicExchangeableWords\obj\Debug\netcoreapp2.0\5.MagicExchangeableWords.AssemblyInfo.cs
+C:\Users\Bobi\charp\projects\RectangleArea\5.MagicExchangeableWords\obj\Debug\netcoreapp2.0\5.MagicExchangeableWords.dll
+C:\Users\Bobi\charp\projects\RectangleArea\5.MagicExchangeableWords\obj\Debug\netcoreapp2.0\5.MagicExchangeableWords.pdb

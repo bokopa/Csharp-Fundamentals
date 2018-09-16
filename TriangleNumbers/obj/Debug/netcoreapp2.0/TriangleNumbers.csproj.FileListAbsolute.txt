@@ -1,0 +1,10 @@
+C:\Users\Bobi\charp\projects\RectangleArea\TriangleNumbers\bin\Debug\netcoreapp2.0\TriangleNumbers.deps.json
+C:\Users\Bobi\charp\projects\RectangleArea\TriangleNumbers\bin\Debug\netcoreapp2.0\TriangleNumbers.runtimeconfig.json
+C:\Users\Bobi\charp\projects\RectangleArea\TriangleNumbers\bin\Debug\netcoreapp2.0\TriangleNumbers.runtimeconfig.dev.json
+C:\Users\Bobi\charp\projects\RectangleArea\TriangleNumbers\bin\Debug\netcoreapp2.0\TriangleNumbers.dll
+C:\Users\Bobi\charp\projects\RectangleArea\TriangleNumbers\bin\Debug\netcoreapp2.0\TriangleNumbers.pdb
+C:\Users\Bobi\charp\projects\RectangleArea\TriangleNumbers\obj\Debug\netcoreapp2.0\TriangleNumbers.csproj.CoreCompileInputs.cache
+C:\Users\Bobi\charp\projects\RectangleArea\TriangleNumbers\obj\Debug\netcoreapp2.0\TriangleNumbers.AssemblyInfoInputs.cache
+C:\Users\Bobi\charp\projects\RectangleArea\TriangleNumbers\obj\Debug\netcoreapp2.0\TriangleNumbers.AssemblyInfo.cs
+C:\Users\Bobi\charp\projects\RectangleArea\TriangleNumbers\obj\Debug\netcoreapp2.0\TriangleNumbers.dll
+C:\Users\Bobi\charp\projects\RectangleArea\TriangleNumbers\obj\Debug\netcoreapp2.0\TriangleNumbers.pdb

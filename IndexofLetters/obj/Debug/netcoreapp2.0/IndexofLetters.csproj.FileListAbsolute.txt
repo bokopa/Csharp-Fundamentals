@@ -1,0 +1,10 @@
+C:\Users\Bobi\charp\projects\RectangleArea\IndexofLetters\bin\Debug\netcoreapp2.0\IndexofLetters.deps.json
+C:\Users\Bobi\charp\projects\RectangleArea\IndexofLetters\bin\Debug\netcoreapp2.0\IndexofLetters.runtimeconfig.json
+C:\Users\Bobi\charp\projects\RectangleArea\IndexofLetters\bin\Debug\netcoreapp2.0\IndexofLetters.runtimeconfig.dev.json
+C:\Users\Bobi\charp\projects\RectangleArea\IndexofLetters\bin\Debug\netcoreapp2.0\IndexofLetters.dll
+C:\Users\Bobi\charp\projects\RectangleArea\IndexofLetters\bin\Debug\netcoreapp2.0\IndexofLetters.pdb
+C:\Users\Bobi\charp\projects\RectangleArea\IndexofLetters\obj\Debug\netcoreapp2.0\IndexofLetters.csproj.CoreCompileInputs.cache
+C:\Users\Bobi\charp\projects\RectangleArea\IndexofLetters\obj\Debug\netcoreapp2.0\IndexofLetters.AssemblyInfoInputs.cache
+C:\Users\Bobi\charp\projects\RectangleArea\IndexofLetters\obj\Debug\netcoreapp2.0\IndexofLetters.AssemblyInfo.cs
+C:\Users\Bobi\charp\projects\RectangleArea\IndexofLetters\obj\Debug\netcoreapp2.0\IndexofLetters.dll
+C:\Users\Bobi\charp\projects\RectangleArea\IndexofLetters\obj\Debug\netcoreapp2.0\IndexofLetters.pdb

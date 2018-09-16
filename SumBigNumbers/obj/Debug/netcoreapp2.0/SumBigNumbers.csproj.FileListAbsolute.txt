@@ -1,0 +1,11 @@
+C:\Users\Bobi\charp\projects\RectangleArea\SumBigNumbers\bin\Debug\netcoreapp2.0\SumBigNumbers.deps.json
+C:\Users\Bobi\charp\projects\RectangleArea\SumBigNumbers\bin\Debug\netcoreapp2.0\SumBigNumbers.runtimeconfig.json
+C:\Users\Bobi\charp\projects\RectangleArea\SumBigNumbers\bin\Debug\netcoreapp2.0\SumBigNumbers.runtimeconfig.dev.json
+C:\Users\Bobi\charp\projects\RectangleArea\SumBigNumbers\bin\Debug\netcoreapp2.0\SumBigNumbers.dll
+C:\Users\Bobi\charp\projects\RectangleArea\SumBigNumbers\bin\Debug\netcoreapp2.0\SumBigNumbers.pdb
+C:\Users\Bobi\charp\projects\RectangleArea\SumBigNumbers\obj\Debug\netcoreapp2.0\SumBigNumbers.csprojResolveAssemblyReference.cache
+C:\Users\Bobi\charp\projects\RectangleArea\SumBigNumbers\obj\Debug\netcoreapp2.0\SumBigNumbers.csproj.CoreCompileInputs.cache
+C:\Users\Bobi\charp\projects\RectangleArea\SumBigNumbers\obj\Debug\netcoreapp2.0\SumBigNumbers.AssemblyInfoInputs.cache
+C:\Users\Bobi\charp\projects\RectangleArea\SumBigNumbers\obj\Debug\netcoreapp2.0\SumBigNumbers.AssemblyInfo.cs
+C:\Users\Bobi\charp\projects\RectangleArea\SumBigNumbers\obj\Debug\netcoreapp2.0\SumBigNumbers.dll
+C:\Users\Bobi\charp\projects\RectangleArea\SumBigNumbers\obj\Debug\netcoreapp2.0\SumBigNumbers.pdb

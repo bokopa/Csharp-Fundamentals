@@ -1,0 +1,11 @@
+C:\Users\Bobi\charp\projects\RectangleArea\MaratonFirst\bin\Debug\netcoreapp2.0\MaratonFirst.deps.json
+C:\Users\Bobi\charp\projects\RectangleArea\MaratonFirst\bin\Debug\netcoreapp2.0\MaratonFirst.runtimeconfig.json
+C:\Users\Bobi\charp\projects\RectangleArea\MaratonFirst\bin\Debug\netcoreapp2.0\MaratonFirst.runtimeconfig.dev.json
+C:\Users\Bobi\charp\projects\RectangleArea\MaratonFirst\bin\Debug\netcoreapp2.0\MaratonFirst.dll
+C:\Users\Bobi\charp\projects\RectangleArea\MaratonFirst\bin\Debug\netcoreapp2.0\MaratonFirst.pdb
+C:\Users\Bobi\charp\projects\RectangleArea\MaratonFirst\obj\Debug\netcoreapp2.0\MaratonFirst.csprojResolveAssemblyReference.cache
+C:\Users\Bobi\charp\projects\RectangleArea\MaratonFirst\obj\Debug\netcoreapp2.0\MaratonFirst.csproj.CoreCompileInputs.cache
+C:\Users\Bobi\charp\projects\RectangleArea\MaratonFirst\obj\Debug\netcoreapp2.0\MaratonFirst.AssemblyInfoInputs.cache
+C:\Users\Bobi\charp\projects\RectangleArea\MaratonFirst\obj\Debug\netcoreapp2.0\MaratonFirst.AssemblyInfo.cs
+C:\Users\Bobi\charp\projects\RectangleArea\MaratonFirst\obj\Debug\netcoreapp2.0\MaratonFirst.dll
+C:\Users\Bobi\charp\projects\RectangleArea\MaratonFirst\obj\Debug\netcoreapp2.0\MaratonFirst.pdb

@@ -1,0 +1,10 @@
+C:\Users\Bobi\charp\projects\RectangleArea\ASCIItable\bin\Debug\netcoreapp2.0\ASCIItable.deps.json
+C:\Users\Bobi\charp\projects\RectangleArea\ASCIItable\bin\Debug\netcoreapp2.0\ASCIItable.runtimeconfig.json
+C:\Users\Bobi\charp\projects\RectangleArea\ASCIItable\bin\Debug\netcoreapp2.0\ASCIItable.runtimeconfig.dev.json
+C:\Users\Bobi\charp\projects\RectangleArea\ASCIItable\bin\Debug\netcoreapp2.0\ASCIItable.dll
+C:\Users\Bobi\charp\projects\RectangleArea\ASCIItable\bin\Debug\netcoreapp2.0\ASCIItable.pdb
+C:\Users\Bobi\charp\projects\RectangleArea\ASCIItable\obj\Debug\netcoreapp2.0\ASCIItable.csproj.CoreCompileInputs.cache
+C:\Users\Bobi\charp\projects\RectangleArea\ASCIItable\obj\Debug\netcoreapp2.0\ASCIItable.AssemblyInfoInputs.cache
+C:\Users\Bobi\charp\projects\RectangleArea\ASCIItable\obj\Debug\netcoreapp2.0\ASCIItable.AssemblyInfo.cs
+C:\Users\Bobi\charp\projects\RectangleArea\ASCIItable\obj\Debug\netcoreapp2.0\ASCIItable.dll
+C:\Users\Bobi\charp\projects\RectangleArea\ASCIItable\obj\Debug\netcoreapp2.0\ASCIItable.pdb

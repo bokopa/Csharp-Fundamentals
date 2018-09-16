@@ -1,0 +1,10 @@
+C:\Users\Bobi\charp\projects\RectangleArea\5.ArrayManipulator\obj\Debug\netcoreapp2.0\5.ArrayManipulator.csproj.CoreCompileInputs.cache
+C:\Users\Bobi\charp\projects\RectangleArea\5.ArrayManipulator\obj\Debug\netcoreapp2.0\5.ArrayManipulator.AssemblyInfoInputs.cache
+C:\Users\Bobi\charp\projects\RectangleArea\5.ArrayManipulator\obj\Debug\netcoreapp2.0\5.ArrayManipulator.AssemblyInfo.cs
+C:\Users\Bobi\charp\projects\RectangleArea\5.ArrayManipulator\bin\Debug\netcoreapp2.0\5.ArrayManipulator.deps.json
+C:\Users\Bobi\charp\projects\RectangleArea\5.ArrayManipulator\bin\Debug\netcoreapp2.0\5.ArrayManipulator.runtimeconfig.json
+C:\Users\Bobi\charp\projects\RectangleArea\5.ArrayManipulator\bin\Debug\netcoreapp2.0\5.ArrayManipulator.runtimeconfig.dev.json
+C:\Users\Bobi\charp\projects\RectangleArea\5.ArrayManipulator\bin\Debug\netcoreapp2.0\5.ArrayManipulator.dll
+C:\Users\Bobi\charp\projects\RectangleArea\5.ArrayManipulator\bin\Debug\netcoreapp2.0\5.ArrayManipulator.pdb
+C:\Users\Bobi\charp\projects\RectangleArea\5.ArrayManipulator\obj\Debug\netcoreapp2.0\5.ArrayManipulator.dll
+C:\Users\Bobi\charp\projects\RectangleArea\5.ArrayManipulator\obj\Debug\netcoreapp2.0\5.ArrayManipulator.pdb

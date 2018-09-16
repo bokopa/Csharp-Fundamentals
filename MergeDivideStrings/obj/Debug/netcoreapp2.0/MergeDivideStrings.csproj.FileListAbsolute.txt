@@ -1,0 +1,11 @@
+C:\Users\Bobi\charp\projects\RectangleArea\MergeDivideStrings\obj\Debug\netcoreapp2.0\MergeDivideStrings.csproj.CoreCompileInputs.cache
+C:\Users\Bobi\charp\projects\RectangleArea\MergeDivideStrings\obj\Debug\netcoreapp2.0\MergeDivideStrings.AssemblyInfoInputs.cache
+C:\Users\Bobi\charp\projects\RectangleArea\MergeDivideStrings\obj\Debug\netcoreapp2.0\MergeDivideStrings.AssemblyInfo.cs
+C:\Users\Bobi\charp\projects\RectangleArea\MergeDivideStrings\bin\Debug\netcoreapp2.0\MergeDivideStrings.deps.json
+C:\Users\Bobi\charp\projects\RectangleArea\MergeDivideStrings\bin\Debug\netcoreapp2.0\MergeDivideStrings.runtimeconfig.json
+C:\Users\Bobi\charp\projects\RectangleArea\MergeDivideStrings\bin\Debug\netcoreapp2.0\MergeDivideStrings.runtimeconfig.dev.json
+C:\Users\Bobi\charp\projects\RectangleArea\MergeDivideStrings\bin\Debug\netcoreapp2.0\MergeDivideStrings.dll
+C:\Users\Bobi\charp\projects\RectangleArea\MergeDivideStrings\bin\Debug\netcoreapp2.0\MergeDivideStrings.pdb
+C:\Users\Bobi\charp\projects\RectangleArea\MergeDivideStrings\obj\Debug\netcoreapp2.0\MergeDivideStrings.csprojResolveAssemblyReference.cache
+C:\Users\Bobi\charp\projects\RectangleArea\MergeDivideStrings\obj\Debug\netcoreapp2.0\MergeDivideStrings.dll
+C:\Users\Bobi\charp\projects\RectangleArea\MergeDivideStrings\obj\Debug\netcoreapp2.0\MergeDivideStrings.pdb

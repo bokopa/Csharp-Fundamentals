@@ -1,0 +1,10 @@
+C:\Users\Bobi\charp\projects\RectangleArea\CompareCharArrays\bin\Debug\netcoreapp2.0\CompareCharArrays.deps.json
+C:\Users\Bobi\charp\projects\RectangleArea\CompareCharArrays\bin\Debug\netcoreapp2.0\CompareCharArrays.runtimeconfig.json
+C:\Users\Bobi\charp\projects\RectangleArea\CompareCharArrays\bin\Debug\netcoreapp2.0\CompareCharArrays.runtimeconfig.dev.json
+C:\Users\Bobi\charp\projects\RectangleArea\CompareCharArrays\bin\Debug\netcoreapp2.0\CompareCharArrays.dll
+C:\Users\Bobi\charp\projects\RectangleArea\CompareCharArrays\bin\Debug\netcoreapp2.0\CompareCharArrays.pdb
+C:\Users\Bobi\charp\projects\RectangleArea\CompareCharArrays\obj\Debug\netcoreapp2.0\CompareCharArrays.csproj.CoreCompileInputs.cache
+C:\Users\Bobi\charp\projects\RectangleArea\CompareCharArrays\obj\Debug\netcoreapp2.0\CompareCharArrays.AssemblyInfoInputs.cache
+C:\Users\Bobi\charp\projects\RectangleArea\CompareCharArrays\obj\Debug\netcoreapp2.0\CompareCharArrays.AssemblyInfo.cs
+C:\Users\Bobi\charp\projects\RectangleArea\CompareCharArrays\obj\Debug\netcoreapp2.0\CompareCharArrays.dll
+C:\Users\Bobi\charp\projects\RectangleArea\CompareCharArrays\obj\Debug\netcoreapp2.0\CompareCharArrays.pdb

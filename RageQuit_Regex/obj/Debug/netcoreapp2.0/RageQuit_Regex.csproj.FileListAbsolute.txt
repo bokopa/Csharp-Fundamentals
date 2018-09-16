@@ -1,0 +1,11 @@
+C:\Users\Bobi\charp\projects\RectangleArea\RageQuit_Regex\bin\Debug\netcoreapp2.0\RageQuit_Regex.deps.json
+C:\Users\Bobi\charp\projects\RectangleArea\RageQuit_Regex\bin\Debug\netcoreapp2.0\RageQuit_Regex.runtimeconfig.json
+C:\Users\Bobi\charp\projects\RectangleArea\RageQuit_Regex\bin\Debug\netcoreapp2.0\RageQuit_Regex.runtimeconfig.dev.json
+C:\Users\Bobi\charp\projects\RectangleArea\RageQuit_Regex\bin\Debug\netcoreapp2.0\RageQuit_Regex.dll
+C:\Users\Bobi\charp\projects\RectangleArea\RageQuit_Regex\bin\Debug\netcoreapp2.0\RageQuit_Regex.pdb
+C:\Users\Bobi\charp\projects\RectangleArea\RageQuit_Regex\obj\Debug\netcoreapp2.0\RageQuit_Regex.csprojResolveAssemblyReference.cache
+C:\Users\Bobi\charp\projects\RectangleArea\RageQuit_Regex\obj\Debug\netcoreapp2.0\RageQuit_Regex.csproj.CoreCompileInputs.cache
+C:\Users\Bobi\charp\projects\RectangleArea\RageQuit_Regex\obj\Debug\netcoreapp2.0\RageQuit_Regex.AssemblyInfoInputs.cache
+C:\Users\Bobi\charp\projects\RectangleArea\RageQuit_Regex\obj\Debug\netcoreapp2.0\RageQuit_Regex.AssemblyInfo.cs
+C:\Users\Bobi\charp\projects\RectangleArea\RageQuit_Regex\obj\Debug\netcoreapp2.0\RageQuit_Regex.dll
+C:\Users\Bobi\charp\projects\RectangleArea\RageQuit_Regex\obj\Debug\netcoreapp2.0\RageQuit_Regex.pdb

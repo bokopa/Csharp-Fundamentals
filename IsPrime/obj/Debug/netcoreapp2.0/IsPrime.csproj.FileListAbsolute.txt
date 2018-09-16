@@ -1,0 +1,10 @@
+C:\Users\Bobi\charp\projects\RectangleArea\IsPrime\bin\Debug\netcoreapp2.0\IsPrime.deps.json
+C:\Users\Bobi\charp\projects\RectangleArea\IsPrime\bin\Debug\netcoreapp2.0\IsPrime.runtimeconfig.json
+C:\Users\Bobi\charp\projects\RectangleArea\IsPrime\bin\Debug\netcoreapp2.0\IsPrime.runtimeconfig.dev.json
+C:\Users\Bobi\charp\projects\RectangleArea\IsPrime\bin\Debug\netcoreapp2.0\IsPrime.dll
+C:\Users\Bobi\charp\projects\RectangleArea\IsPrime\bin\Debug\netcoreapp2.0\IsPrime.pdb
+C:\Users\Bobi\charp\projects\RectangleArea\IsPrime\obj\Debug\netcoreapp2.0\IsPrime.csproj.CoreCompileInputs.cache
+C:\Users\Bobi\charp\projects\RectangleArea\IsPrime\obj\Debug\netcoreapp2.0\IsPrime.AssemblyInfoInputs.cache
+C:\Users\Bobi\charp\projects\RectangleArea\IsPrime\obj\Debug\netcoreapp2.0\IsPrime.AssemblyInfo.cs
+C:\Users\Bobi\charp\projects\RectangleArea\IsPrime\obj\Debug\netcoreapp2.0\IsPrime.dll
+C:\Users\Bobi\charp\projects\RectangleArea\IsPrime\obj\Debug\netcoreapp2.0\IsPrime.pdb

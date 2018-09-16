@@ -1,0 +1,10 @@
+C:\Users\Bobi\charp\projects\RectangleArea\4.CharacterMultiplier\bin\Debug\netcoreapp2.0\4.CharacterMultiplier.deps.json
+C:\Users\Bobi\charp\projects\RectangleArea\4.CharacterMultiplier\bin\Debug\netcoreapp2.0\4.CharacterMultiplier.runtimeconfig.json
+C:\Users\Bobi\charp\projects\RectangleArea\4.CharacterMultiplier\bin\Debug\netcoreapp2.0\4.CharacterMultiplier.runtimeconfig.dev.json
+C:\Users\Bobi\charp\projects\RectangleArea\4.CharacterMultiplier\bin\Debug\netcoreapp2.0\4.CharacterMultiplier.dll
+C:\Users\Bobi\charp\projects\RectangleArea\4.CharacterMultiplier\bin\Debug\netcoreapp2.0\4.CharacterMultiplier.pdb
+C:\Users\Bobi\charp\projects\RectangleArea\4.CharacterMultiplier\obj\Debug\netcoreapp2.0\4.CharacterMultiplier.csproj.CoreCompileInputs.cache
+C:\Users\Bobi\charp\projects\RectangleArea\4.CharacterMultiplier\obj\Debug\netcoreapp2.0\4.CharacterMultiplier.AssemblyInfoInputs.cache
+C:\Users\Bobi\charp\projects\RectangleArea\4.CharacterMultiplier\obj\Debug\netcoreapp2.0\4.CharacterMultiplier.AssemblyInfo.cs
+C:\Users\Bobi\charp\projects\RectangleArea\4.CharacterMultiplier\obj\Debug\netcoreapp2.0\4.CharacterMultiplier.dll
+C:\Users\Bobi\charp\projects\RectangleArea\4.CharacterMultiplier\obj\Debug\netcoreapp2.0\4.CharacterMultiplier.pdb

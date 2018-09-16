@@ -1,0 +1,11 @@
+C:\Users\Bobi\charp\projects\RectangleArea\CameraView\bin\Debug\netcoreapp2.0\CameraView.deps.json
+C:\Users\Bobi\charp\projects\RectangleArea\CameraView\bin\Debug\netcoreapp2.0\CameraView.runtimeconfig.json
+C:\Users\Bobi\charp\projects\RectangleArea\CameraView\bin\Debug\netcoreapp2.0\CameraView.runtimeconfig.dev.json
+C:\Users\Bobi\charp\projects\RectangleArea\CameraView\bin\Debug\netcoreapp2.0\CameraView.dll
+C:\Users\Bobi\charp\projects\RectangleArea\CameraView\bin\Debug\netcoreapp2.0\CameraView.pdb
+C:\Users\Bobi\charp\projects\RectangleArea\CameraView\obj\Debug\netcoreapp2.0\CameraView.csprojResolveAssemblyReference.cache
+C:\Users\Bobi\charp\projects\RectangleArea\CameraView\obj\Debug\netcoreapp2.0\CameraView.csproj.CoreCompileInputs.cache
+C:\Users\Bobi\charp\projects\RectangleArea\CameraView\obj\Debug\netcoreapp2.0\CameraView.AssemblyInfoInputs.cache
+C:\Users\Bobi\charp\projects\RectangleArea\CameraView\obj\Debug\netcoreapp2.0\CameraView.AssemblyInfo.cs
+C:\Users\Bobi\charp\projects\RectangleArea\CameraView\obj\Debug\netcoreapp2.0\CameraView.dll
+C:\Users\Bobi\charp\projects\RectangleArea\CameraView\obj\Debug\netcoreapp2.0\CameraView.pdb

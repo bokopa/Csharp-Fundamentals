@@ -1,0 +1,11 @@
+C:\Users\Bobi\charp\projects\RectangleArea\MultiplyBigNumber\obj\Debug\netcoreapp2.0\MultiplyBigNumber.csprojResolveAssemblyReference.cache
+C:\Users\Bobi\charp\projects\RectangleArea\MultiplyBigNumber\obj\Debug\netcoreapp2.0\MultiplyBigNumber.csproj.CoreCompileInputs.cache
+C:\Users\Bobi\charp\projects\RectangleArea\MultiplyBigNumber\obj\Debug\netcoreapp2.0\MultiplyBigNumber.AssemblyInfoInputs.cache
+C:\Users\Bobi\charp\projects\RectangleArea\MultiplyBigNumber\obj\Debug\netcoreapp2.0\MultiplyBigNumber.AssemblyInfo.cs
+C:\Users\Bobi\charp\projects\RectangleArea\MultiplyBigNumber\bin\Debug\netcoreapp2.0\MultiplyBigNumber.deps.json
+C:\Users\Bobi\charp\projects\RectangleArea\MultiplyBigNumber\bin\Debug\netcoreapp2.0\MultiplyBigNumber.runtimeconfig.json
+C:\Users\Bobi\charp\projects\RectangleArea\MultiplyBigNumber\bin\Debug\netcoreapp2.0\MultiplyBigNumber.runtimeconfig.dev.json
+C:\Users\Bobi\charp\projects\RectangleArea\MultiplyBigNumber\bin\Debug\netcoreapp2.0\MultiplyBigNumber.dll
+C:\Users\Bobi\charp\projects\RectangleArea\MultiplyBigNumber\bin\Debug\netcoreapp2.0\MultiplyBigNumber.pdb
+C:\Users\Bobi\charp\projects\RectangleArea\MultiplyBigNumber\obj\Debug\netcoreapp2.0\MultiplyBigNumber.dll
+C:\Users\Bobi\charp\projects\RectangleArea\MultiplyBigNumber\obj\Debug\netcoreapp2.0\MultiplyBigNumber.pdb

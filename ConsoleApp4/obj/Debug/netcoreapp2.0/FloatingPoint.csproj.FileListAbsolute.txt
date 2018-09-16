@@ -1,0 +1,10 @@
+C:\Users\Bobi\charp\projects\RectangleArea\ConsoleApp4\bin\Debug\netcoreapp2.0\FloatingPoint.deps.json
+C:\Users\Bobi\charp\projects\RectangleArea\ConsoleApp4\bin\Debug\netcoreapp2.0\FloatingPoint.runtimeconfig.json
+C:\Users\Bobi\charp\projects\RectangleArea\ConsoleApp4\bin\Debug\netcoreapp2.0\FloatingPoint.runtimeconfig.dev.json
+C:\Users\Bobi\charp\projects\RectangleArea\ConsoleApp4\bin\Debug\netcoreapp2.0\FloatingPoint.dll
+C:\Users\Bobi\charp\projects\RectangleArea\ConsoleApp4\bin\Debug\netcoreapp2.0\FloatingPoint.pdb
+C:\Users\Bobi\charp\projects\RectangleArea\ConsoleApp4\obj\Debug\netcoreapp2.0\FloatingPoint.csproj.CoreCompileInputs.cache
+C:\Users\Bobi\charp\projects\RectangleArea\ConsoleApp4\obj\Debug\netcoreapp2.0\FloatingPoint.AssemblyInfoInputs.cache
+C:\Users\Bobi\charp\projects\RectangleArea\ConsoleApp4\obj\Debug\netcoreapp2.0\FloatingPoint.AssemblyInfo.cs
+C:\Users\Bobi\charp\projects\RectangleArea\ConsoleApp4\obj\Debug\netcoreapp2.0\FloatingPoint.dll
+C:\Users\Bobi\charp\projects\RectangleArea\ConsoleApp4\obj\Debug\netcoreapp2.0\FloatingPoint.pdb

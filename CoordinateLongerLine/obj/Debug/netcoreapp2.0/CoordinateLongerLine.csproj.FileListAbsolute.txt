@@ -1,0 +1,10 @@
+C:\Users\Bobi\charp\projects\RectangleArea\CoordinateLongerLine\bin\Debug\netcoreapp2.0\CoordinateLongerLine.deps.json
+C:\Users\Bobi\charp\projects\RectangleArea\CoordinateLongerLine\bin\Debug\netcoreapp2.0\CoordinateLongerLine.runtimeconfig.json
+C:\Users\Bobi\charp\projects\RectangleArea\CoordinateLongerLine\bin\Debug\netcoreapp2.0\CoordinateLongerLine.runtimeconfig.dev.json
+C:\Users\Bobi\charp\projects\RectangleArea\CoordinateLongerLine\bin\Debug\netcoreapp2.0\CoordinateLongerLine.dll
+C:\Users\Bobi\charp\projects\RectangleArea\CoordinateLongerLine\bin\Debug\netcoreapp2.0\CoordinateLongerLine.pdb
+C:\Users\Bobi\charp\projects\RectangleArea\CoordinateLongerLine\obj\Debug\netcoreapp2.0\CoordinateLongerLine.csproj.CoreCompileInputs.cache
+C:\Users\Bobi\charp\projects\RectangleArea\CoordinateLongerLine\obj\Debug\netcoreapp2.0\CoordinateLongerLine.AssemblyInfoInputs.cache
+C:\Users\Bobi\charp\projects\RectangleArea\CoordinateLongerLine\obj\Debug\netcoreapp2.0\CoordinateLongerLine.AssemblyInfo.cs
+C:\Users\Bobi\charp\projects\RectangleArea\CoordinateLongerLine\obj\Debug\netcoreapp2.0\CoordinateLongerLine.dll
+C:\Users\Bobi\charp\projects\RectangleArea\CoordinateLongerLine\obj\Debug\netcoreapp2.0\CoordinateLongerLine.pdb

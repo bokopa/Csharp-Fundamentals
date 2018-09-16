@@ -1,0 +1,10 @@
+C:\Users\Bobi\charp\projects\RectangleArea\4.FixEmails\bin\Debug\netcoreapp2.0\4.FixEmails.deps.json
+C:\Users\Bobi\charp\projects\RectangleArea\4.FixEmails\bin\Debug\netcoreapp2.0\4.FixEmails.runtimeconfig.json
+C:\Users\Bobi\charp\projects\RectangleArea\4.FixEmails\bin\Debug\netcoreapp2.0\4.FixEmails.runtimeconfig.dev.json
+C:\Users\Bobi\charp\projects\RectangleArea\4.FixEmails\bin\Debug\netcoreapp2.0\4.FixEmails.dll
+C:\Users\Bobi\charp\projects\RectangleArea\4.FixEmails\bin\Debug\netcoreapp2.0\4.FixEmails.pdb
+C:\Users\Bobi\charp\projects\RectangleArea\4.FixEmails\obj\Debug\netcoreapp2.0\4.FixEmails.csproj.CoreCompileInputs.cache
+C:\Users\Bobi\charp\projects\RectangleArea\4.FixEmails\obj\Debug\netcoreapp2.0\4.FixEmails.AssemblyInfoInputs.cache
+C:\Users\Bobi\charp\projects\RectangleArea\4.FixEmails\obj\Debug\netcoreapp2.0\4.FixEmails.AssemblyInfo.cs
+C:\Users\Bobi\charp\projects\RectangleArea\4.FixEmails\obj\Debug\netcoreapp2.0\4.FixEmails.dll
+C:\Users\Bobi\charp\projects\RectangleArea\4.FixEmails\obj\Debug\netcoreapp2.0\4.FixEmails.pdb

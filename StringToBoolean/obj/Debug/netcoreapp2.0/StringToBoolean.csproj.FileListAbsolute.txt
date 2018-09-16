@@ -1,0 +1,10 @@
+C:\Users\Bobi\charp\projects\RectangleArea\StringToBoolean\obj\Debug\netcoreapp2.0\StringToBoolean.csproj.CoreCompileInputs.cache
+C:\Users\Bobi\charp\projects\RectangleArea\StringToBoolean\obj\Debug\netcoreapp2.0\StringToBoolean.AssemblyInfoInputs.cache
+C:\Users\Bobi\charp\projects\RectangleArea\StringToBoolean\obj\Debug\netcoreapp2.0\StringToBoolean.AssemblyInfo.cs
+C:\Users\Bobi\charp\projects\RectangleArea\StringToBoolean\bin\Debug\netcoreapp2.0\StringToBoolean.deps.json
+C:\Users\Bobi\charp\projects\RectangleArea\StringToBoolean\bin\Debug\netcoreapp2.0\StringToBoolean.runtimeconfig.json
+C:\Users\Bobi\charp\projects\RectangleArea\StringToBoolean\bin\Debug\netcoreapp2.0\StringToBoolean.runtimeconfig.dev.json
+C:\Users\Bobi\charp\projects\RectangleArea\StringToBoolean\bin\Debug\netcoreapp2.0\StringToBoolean.dll
+C:\Users\Bobi\charp\projects\RectangleArea\StringToBoolean\bin\Debug\netcoreapp2.0\StringToBoolean.pdb
+C:\Users\Bobi\charp\projects\RectangleArea\StringToBoolean\obj\Debug\netcoreapp2.0\StringToBoolean.dll
+C:\Users\Bobi\charp\projects\RectangleArea\StringToBoolean\obj\Debug\netcoreapp2.0\StringToBoolean.pdb

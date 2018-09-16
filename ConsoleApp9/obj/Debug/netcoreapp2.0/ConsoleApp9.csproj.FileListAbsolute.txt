@@ -1,0 +1,10 @@
+C:\Users\Bobi\charp\projects\RectangleArea\ConsoleApp9\bin\Debug\netcoreapp2.0\ConsoleApp9.deps.json
+C:\Users\Bobi\charp\projects\RectangleArea\ConsoleApp9\bin\Debug\netcoreapp2.0\ConsoleApp9.runtimeconfig.json
+C:\Users\Bobi\charp\projects\RectangleArea\ConsoleApp9\bin\Debug\netcoreapp2.0\ConsoleApp9.runtimeconfig.dev.json
+C:\Users\Bobi\charp\projects\RectangleArea\ConsoleApp9\bin\Debug\netcoreapp2.0\ConsoleApp9.dll
+C:\Users\Bobi\charp\projects\RectangleArea\ConsoleApp9\bin\Debug\netcoreapp2.0\ConsoleApp9.pdb
+C:\Users\Bobi\charp\projects\RectangleArea\ConsoleApp9\obj\Debug\netcoreapp2.0\ConsoleApp9.csproj.CoreCompileInputs.cache
+C:\Users\Bobi\charp\projects\RectangleArea\ConsoleApp9\obj\Debug\netcoreapp2.0\ConsoleApp9.AssemblyInfoInputs.cache
+C:\Users\Bobi\charp\projects\RectangleArea\ConsoleApp9\obj\Debug\netcoreapp2.0\ConsoleApp9.AssemblyInfo.cs
+C:\Users\Bobi\charp\projects\RectangleArea\ConsoleApp9\obj\Debug\netcoreapp2.0\ConsoleApp9.dll
+C:\Users\Bobi\charp\projects\RectangleArea\ConsoleApp9\obj\Debug\netcoreapp2.0\ConsoleApp9.pdb

@@ -1,0 +1,11 @@
+C:\Users\Bobi\charp\projects\RectangleArea\AnonimousRegExMisho\obj\Debug\netcoreapp2.0\AnonimousRegExMisho.csprojResolveAssemblyReference.cache
+C:\Users\Bobi\charp\projects\RectangleArea\AnonimousRegExMisho\obj\Debug\netcoreapp2.0\AnonimousRegExMisho.csproj.CoreCompileInputs.cache
+C:\Users\Bobi\charp\projects\RectangleArea\AnonimousRegExMisho\obj\Debug\netcoreapp2.0\AnonimousRegExMisho.AssemblyInfoInputs.cache
+C:\Users\Bobi\charp\projects\RectangleArea\AnonimousRegExMisho\obj\Debug\netcoreapp2.0\AnonimousRegExMisho.AssemblyInfo.cs
+C:\Users\Bobi\charp\projects\RectangleArea\AnonimousRegExMisho\bin\Debug\netcoreapp2.0\AnonimousRegExMisho.deps.json
+C:\Users\Bobi\charp\projects\RectangleArea\AnonimousRegExMisho\bin\Debug\netcoreapp2.0\AnonimousRegExMisho.runtimeconfig.json
+C:\Users\Bobi\charp\projects\RectangleArea\AnonimousRegExMisho\bin\Debug\netcoreapp2.0\AnonimousRegExMisho.runtimeconfig.dev.json
+C:\Users\Bobi\charp\projects\RectangleArea\AnonimousRegExMisho\bin\Debug\netcoreapp2.0\AnonimousRegExMisho.dll
+C:\Users\Bobi\charp\projects\RectangleArea\AnonimousRegExMisho\bin\Debug\netcoreapp2.0\AnonimousRegExMisho.pdb
+C:\Users\Bobi\charp\projects\RectangleArea\AnonimousRegExMisho\obj\Debug\netcoreapp2.0\AnonimousRegExMisho.dll
+C:\Users\Bobi\charp\projects\RectangleArea\AnonimousRegExMisho\obj\Debug\netcoreapp2.0\AnonimousRegExMisho.pdb

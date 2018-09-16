@@ -1,0 +1,10 @@
+C:\Users\Bobi\charp\projects\RectangleArea\ConvertSpeedUnits\bin\Debug\netcoreapp2.0\ConvertSpeedUnits.deps.json
+C:\Users\Bobi\charp\projects\RectangleArea\ConvertSpeedUnits\bin\Debug\netcoreapp2.0\ConvertSpeedUnits.runtimeconfig.json
+C:\Users\Bobi\charp\projects\RectangleArea\ConvertSpeedUnits\bin\Debug\netcoreapp2.0\ConvertSpeedUnits.runtimeconfig.dev.json
+C:\Users\Bobi\charp\projects\RectangleArea\ConvertSpeedUnits\bin\Debug\netcoreapp2.0\ConvertSpeedUnits.dll
+C:\Users\Bobi\charp\projects\RectangleArea\ConvertSpeedUnits\bin\Debug\netcoreapp2.0\ConvertSpeedUnits.pdb
+C:\Users\Bobi\charp\projects\RectangleArea\ConvertSpeedUnits\obj\Debug\netcoreapp2.0\ConvertSpeedUnits.csproj.CoreCompileInputs.cache
+C:\Users\Bobi\charp\projects\RectangleArea\ConvertSpeedUnits\obj\Debug\netcoreapp2.0\ConvertSpeedUnits.AssemblyInfoInputs.cache
+C:\Users\Bobi\charp\projects\RectangleArea\ConvertSpeedUnits\obj\Debug\netcoreapp2.0\ConvertSpeedUnits.AssemblyInfo.cs
+C:\Users\Bobi\charp\projects\RectangleArea\ConvertSpeedUnits\obj\Debug\netcoreapp2.0\ConvertSpeedUnits.dll
+C:\Users\Bobi\charp\projects\RectangleArea\ConvertSpeedUnits\obj\Debug\netcoreapp2.0\ConvertSpeedUnits.pdb

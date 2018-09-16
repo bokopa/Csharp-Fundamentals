@@ -1,0 +1,11 @@
+C:\Users\Bobi\charp\projects\RectangleArea\RainCast\bin\Debug\netcoreapp2.0\RainCast.deps.json
+C:\Users\Bobi\charp\projects\RectangleArea\RainCast\bin\Debug\netcoreapp2.0\RainCast.runtimeconfig.json
+C:\Users\Bobi\charp\projects\RectangleArea\RainCast\bin\Debug\netcoreapp2.0\RainCast.runtimeconfig.dev.json
+C:\Users\Bobi\charp\projects\RectangleArea\RainCast\bin\Debug\netcoreapp2.0\RainCast.dll
+C:\Users\Bobi\charp\projects\RectangleArea\RainCast\bin\Debug\netcoreapp2.0\RainCast.pdb
+C:\Users\Bobi\charp\projects\RectangleArea\RainCast\obj\Debug\netcoreapp2.0\RainCast.csprojResolveAssemblyReference.cache
+C:\Users\Bobi\charp\projects\RectangleArea\RainCast\obj\Debug\netcoreapp2.0\RainCast.csproj.CoreCompileInputs.cache
+C:\Users\Bobi\charp\projects\RectangleArea\RainCast\obj\Debug\netcoreapp2.0\RainCast.AssemblyInfoInputs.cache
+C:\Users\Bobi\charp\projects\RectangleArea\RainCast\obj\Debug\netcoreapp2.0\RainCast.AssemblyInfo.cs
+C:\Users\Bobi\charp\projects\RectangleArea\RainCast\obj\Debug\netcoreapp2.0\RainCast.dll
+C:\Users\Bobi\charp\projects\RectangleArea\RainCast\obj\Debug\netcoreapp2.0\RainCast.pdb

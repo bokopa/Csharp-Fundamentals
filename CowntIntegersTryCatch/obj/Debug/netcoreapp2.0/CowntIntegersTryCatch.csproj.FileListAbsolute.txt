@@ -1,0 +1,10 @@
+C:\Users\Bobi\charp\projects\RectangleArea\CowntIntegersTryCatch\bin\Debug\netcoreapp2.0\CowntIntegersTryCatch.deps.json
+C:\Users\Bobi\charp\projects\RectangleArea\CowntIntegersTryCatch\bin\Debug\netcoreapp2.0\CowntIntegersTryCatch.runtimeconfig.json
+C:\Users\Bobi\charp\projects\RectangleArea\CowntIntegersTryCatch\bin\Debug\netcoreapp2.0\CowntIntegersTryCatch.runtimeconfig.dev.json
+C:\Users\Bobi\charp\projects\RectangleArea\CowntIntegersTryCatch\bin\Debug\netcoreapp2.0\CowntIntegersTryCatch.dll
+C:\Users\Bobi\charp\projects\RectangleArea\CowntIntegersTryCatch\bin\Debug\netcoreapp2.0\CowntIntegersTryCatch.pdb
+C:\Users\Bobi\charp\projects\RectangleArea\CowntIntegersTryCatch\obj\Debug\netcoreapp2.0\CowntIntegersTryCatch.csproj.CoreCompileInputs.cache
+C:\Users\Bobi\charp\projects\RectangleArea\CowntIntegersTryCatch\obj\Debug\netcoreapp2.0\CowntIntegersTryCatch.AssemblyInfoInputs.cache
+C:\Users\Bobi\charp\projects\RectangleArea\CowntIntegersTryCatch\obj\Debug\netcoreapp2.0\CowntIntegersTryCatch.AssemblyInfo.cs
+C:\Users\Bobi\charp\projects\RectangleArea\CowntIntegersTryCatch\obj\Debug\netcoreapp2.0\CowntIntegersTryCatch.dll
+C:\Users\Bobi\charp\projects\RectangleArea\CowntIntegersTryCatch\obj\Debug\netcoreapp2.0\CowntIntegersTryCatch.pdb

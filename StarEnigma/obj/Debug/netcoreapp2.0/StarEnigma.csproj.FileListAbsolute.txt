@@ -1,0 +1,11 @@
+C:\Users\Bobi\charp\projects\RectangleArea\StarEnigma\bin\Debug\netcoreapp2.0\StarEnigma.deps.json
+C:\Users\Bobi\charp\projects\RectangleArea\StarEnigma\bin\Debug\netcoreapp2.0\StarEnigma.runtimeconfig.json
+C:\Users\Bobi\charp\projects\RectangleArea\StarEnigma\bin\Debug\netcoreapp2.0\StarEnigma.runtimeconfig.dev.json
+C:\Users\Bobi\charp\projects\RectangleArea\StarEnigma\bin\Debug\netcoreapp2.0\StarEnigma.dll
+C:\Users\Bobi\charp\projects\RectangleArea\StarEnigma\bin\Debug\netcoreapp2.0\StarEnigma.pdb
+C:\Users\Bobi\charp\projects\RectangleArea\StarEnigma\obj\Debug\netcoreapp2.0\StarEnigma.csprojResolveAssemblyReference.cache
+C:\Users\Bobi\charp\projects\RectangleArea\StarEnigma\obj\Debug\netcoreapp2.0\StarEnigma.csproj.CoreCompileInputs.cache
+C:\Users\Bobi\charp\projects\RectangleArea\StarEnigma\obj\Debug\netcoreapp2.0\StarEnigma.AssemblyInfoInputs.cache
+C:\Users\Bobi\charp\projects\RectangleArea\StarEnigma\obj\Debug\netcoreapp2.0\StarEnigma.AssemblyInfo.cs
+C:\Users\Bobi\charp\projects\RectangleArea\StarEnigma\obj\Debug\netcoreapp2.0\StarEnigma.dll
+C:\Users\Bobi\charp\projects\RectangleArea\StarEnigma\obj\Debug\netcoreapp2.0\StarEnigma.pdb

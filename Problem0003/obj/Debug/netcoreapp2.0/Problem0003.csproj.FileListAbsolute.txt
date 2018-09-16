@@ -1,0 +1,11 @@
+C:\Users\Bobi\charp\projects\RectangleArea\Problem0003\bin\Debug\netcoreapp2.0\Problem0003.deps.json
+C:\Users\Bobi\charp\projects\RectangleArea\Problem0003\bin\Debug\netcoreapp2.0\Problem0003.runtimeconfig.json
+C:\Users\Bobi\charp\projects\RectangleArea\Problem0003\bin\Debug\netcoreapp2.0\Problem0003.runtimeconfig.dev.json
+C:\Users\Bobi\charp\projects\RectangleArea\Problem0003\bin\Debug\netcoreapp2.0\Problem0003.dll
+C:\Users\Bobi\charp\projects\RectangleArea\Problem0003\bin\Debug\netcoreapp2.0\Problem0003.pdb
+C:\Users\Bobi\charp\projects\RectangleArea\Problem0003\obj\Debug\netcoreapp2.0\Problem0003.csprojResolveAssemblyReference.cache
+C:\Users\Bobi\charp\projects\RectangleArea\Problem0003\obj\Debug\netcoreapp2.0\Problem0003.csproj.CoreCompileInputs.cache
+C:\Users\Bobi\charp\projects\RectangleArea\Problem0003\obj\Debug\netcoreapp2.0\Problem0003.AssemblyInfoInputs.cache
+C:\Users\Bobi\charp\projects\RectangleArea\Problem0003\obj\Debug\netcoreapp2.0\Problem0003.AssemblyInfo.cs
+C:\Users\Bobi\charp\projects\RectangleArea\Problem0003\obj\Debug\netcoreapp2.0\Problem0003.dll
+C:\Users\Bobi\charp\projects\RectangleArea\Problem0003\obj\Debug\netcoreapp2.0\Problem0003.pdb

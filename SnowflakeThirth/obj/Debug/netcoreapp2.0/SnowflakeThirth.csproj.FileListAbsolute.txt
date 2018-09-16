@@ -1,0 +1,11 @@
+C:\Users\Bobi\charp\projects\RectangleArea\SnowflakeThirth\bin\Debug\netcoreapp2.0\SnowflakeThirth.deps.json
+C:\Users\Bobi\charp\projects\RectangleArea\SnowflakeThirth\bin\Debug\netcoreapp2.0\SnowflakeThirth.runtimeconfig.json
+C:\Users\Bobi\charp\projects\RectangleArea\SnowflakeThirth\bin\Debug\netcoreapp2.0\SnowflakeThirth.runtimeconfig.dev.json
+C:\Users\Bobi\charp\projects\RectangleArea\SnowflakeThirth\bin\Debug\netcoreapp2.0\SnowflakeThirth.dll
+C:\Users\Bobi\charp\projects\RectangleArea\SnowflakeThirth\bin\Debug\netcoreapp2.0\SnowflakeThirth.pdb
+C:\Users\Bobi\charp\projects\RectangleArea\SnowflakeThirth\obj\Debug\netcoreapp2.0\SnowflakeThirth.csprojResolveAssemblyReference.cache
+C:\Users\Bobi\charp\projects\RectangleArea\SnowflakeThirth\obj\Debug\netcoreapp2.0\SnowflakeThirth.csproj.CoreCompileInputs.cache
+C:\Users\Bobi\charp\projects\RectangleArea\SnowflakeThirth\obj\Debug\netcoreapp2.0\SnowflakeThirth.AssemblyInfoInputs.cache
+C:\Users\Bobi\charp\projects\RectangleArea\SnowflakeThirth\obj\Debug\netcoreapp2.0\SnowflakeThirth.AssemblyInfo.cs
+C:\Users\Bobi\charp\projects\RectangleArea\SnowflakeThirth\obj\Debug\netcoreapp2.0\SnowflakeThirth.dll
+C:\Users\Bobi\charp\projects\RectangleArea\SnowflakeThirth\obj\Debug\netcoreapp2.0\SnowflakeThirth.pdb

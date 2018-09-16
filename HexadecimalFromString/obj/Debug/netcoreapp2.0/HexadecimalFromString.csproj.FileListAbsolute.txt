@@ -1,0 +1,10 @@
+C:\Users\Bobi\charp\projects\RectangleArea\HexadecimalFromString\bin\Debug\netcoreapp2.0\HexadecimalFromString.deps.json
+C:\Users\Bobi\charp\projects\RectangleArea\HexadecimalFromString\bin\Debug\netcoreapp2.0\HexadecimalFromString.runtimeconfig.json
+C:\Users\Bobi\charp\projects\RectangleArea\HexadecimalFromString\bin\Debug\netcoreapp2.0\HexadecimalFromString.runtimeconfig.dev.json
+C:\Users\Bobi\charp\projects\RectangleArea\HexadecimalFromString\bin\Debug\netcoreapp2.0\HexadecimalFromString.dll
+C:\Users\Bobi\charp\projects\RectangleArea\HexadecimalFromString\bin\Debug\netcoreapp2.0\HexadecimalFromString.pdb
+C:\Users\Bobi\charp\projects\RectangleArea\HexadecimalFromString\obj\Debug\netcoreapp2.0\HexadecimalFromString.csproj.CoreCompileInputs.cache
+C:\Users\Bobi\charp\projects\RectangleArea\HexadecimalFromString\obj\Debug\netcoreapp2.0\HexadecimalFromString.AssemblyInfoInputs.cache
+C:\Users\Bobi\charp\projects\RectangleArea\HexadecimalFromString\obj\Debug\netcoreapp2.0\HexadecimalFromString.AssemblyInfo.cs
+C:\Users\Bobi\charp\projects\RectangleArea\HexadecimalFromString\obj\Debug\netcoreapp2.0\HexadecimalFromString.dll
+C:\Users\Bobi\charp\projects\RectangleArea\HexadecimalFromString\obj\Debug\netcoreapp2.0\HexadecimalFromString.pdb

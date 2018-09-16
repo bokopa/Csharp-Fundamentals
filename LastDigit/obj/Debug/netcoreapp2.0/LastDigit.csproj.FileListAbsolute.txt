@@ -1,0 +1,10 @@
+C:\Users\Bobi\charp\projects\RectangleArea\LastDigit\bin\Debug\netcoreapp2.0\LastDigit.deps.json
+C:\Users\Bobi\charp\projects\RectangleArea\LastDigit\bin\Debug\netcoreapp2.0\LastDigit.runtimeconfig.json
+C:\Users\Bobi\charp\projects\RectangleArea\LastDigit\bin\Debug\netcoreapp2.0\LastDigit.runtimeconfig.dev.json
+C:\Users\Bobi\charp\projects\RectangleArea\LastDigit\bin\Debug\netcoreapp2.0\LastDigit.dll
+C:\Users\Bobi\charp\projects\RectangleArea\LastDigit\bin\Debug\netcoreapp2.0\LastDigit.pdb
+C:\Users\Bobi\charp\projects\RectangleArea\LastDigit\obj\Debug\netcoreapp2.0\LastDigit.csproj.CoreCompileInputs.cache
+C:\Users\Bobi\charp\projects\RectangleArea\LastDigit\obj\Debug\netcoreapp2.0\LastDigit.AssemblyInfoInputs.cache
+C:\Users\Bobi\charp\projects\RectangleArea\LastDigit\obj\Debug\netcoreapp2.0\LastDigit.AssemblyInfo.cs
+C:\Users\Bobi\charp\projects\RectangleArea\LastDigit\obj\Debug\netcoreapp2.0\LastDigit.dll
+C:\Users\Bobi\charp\projects\RectangleArea\LastDigit\obj\Debug\netcoreapp2.0\LastDigit.pdb

@@ -1,0 +1,11 @@
+C:\Users\Bobi\charp\projects\RectangleArea\BookLibrary2\bin\Debug\netcoreapp2.0\BookLibrary2.deps.json
+C:\Users\Bobi\charp\projects\RectangleArea\BookLibrary2\bin\Debug\netcoreapp2.0\BookLibrary2.runtimeconfig.json
+C:\Users\Bobi\charp\projects\RectangleArea\BookLibrary2\bin\Debug\netcoreapp2.0\BookLibrary2.runtimeconfig.dev.json
+C:\Users\Bobi\charp\projects\RectangleArea\BookLibrary2\bin\Debug\netcoreapp2.0\BookLibrary2.dll
+C:\Users\Bobi\charp\projects\RectangleArea\BookLibrary2\bin\Debug\netcoreapp2.0\BookLibrary2.pdb
+C:\Users\Bobi\charp\projects\RectangleArea\BookLibrary2\obj\Debug\netcoreapp2.0\BookLibrary2.csprojResolveAssemblyReference.cache
+C:\Users\Bobi\charp\projects\RectangleArea\BookLibrary2\obj\Debug\netcoreapp2.0\BookLibrary2.csproj.CoreCompileInputs.cache
+C:\Users\Bobi\charp\projects\RectangleArea\BookLibrary2\obj\Debug\netcoreapp2.0\BookLibrary2.AssemblyInfoInputs.cache
+C:\Users\Bobi\charp\projects\RectangleArea\BookLibrary2\obj\Debug\netcoreapp2.0\BookLibrary2.AssemblyInfo.cs
+C:\Users\Bobi\charp\projects\RectangleArea\BookLibrary2\obj\Debug\netcoreapp2.0\BookLibrary2.dll
+C:\Users\Bobi\charp\projects\RectangleArea\BookLibrary2\obj\Debug\netcoreapp2.0\BookLibrary2.pdb

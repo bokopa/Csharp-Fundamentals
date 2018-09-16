@@ -1,0 +1,11 @@
+C:\Users\Bobi\charp\projects\RectangleArea\Average Grades\bin\Debug\netcoreapp2.0\Average Grades.deps.json
+C:\Users\Bobi\charp\projects\RectangleArea\Average Grades\bin\Debug\netcoreapp2.0\Average Grades.runtimeconfig.json
+C:\Users\Bobi\charp\projects\RectangleArea\Average Grades\bin\Debug\netcoreapp2.0\Average Grades.runtimeconfig.dev.json
+C:\Users\Bobi\charp\projects\RectangleArea\Average Grades\bin\Debug\netcoreapp2.0\Average Grades.dll
+C:\Users\Bobi\charp\projects\RectangleArea\Average Grades\bin\Debug\netcoreapp2.0\Average Grades.pdb
+C:\Users\Bobi\charp\projects\RectangleArea\Average Grades\obj\Debug\netcoreapp2.0\Average Grades.csproj.CoreCompileInputs.cache
+C:\Users\Bobi\charp\projects\RectangleArea\Average Grades\obj\Debug\netcoreapp2.0\Average Grades.AssemblyInfoInputs.cache
+C:\Users\Bobi\charp\projects\RectangleArea\Average Grades\obj\Debug\netcoreapp2.0\Average Grades.AssemblyInfo.cs
+C:\Users\Bobi\charp\projects\RectangleArea\Average Grades\obj\Debug\netcoreapp2.0\Average Grades.dll
+C:\Users\Bobi\charp\projects\RectangleArea\Average Grades\obj\Debug\netcoreapp2.0\Average Grades.pdb
+C:\Users\Bobi\charp\projects\RectangleArea\Average Grades\obj\Debug\netcoreapp2.0\Average Grades.csprojResolveAssemblyReference.cache

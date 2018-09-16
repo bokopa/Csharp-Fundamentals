@@ -1,0 +1,10 @@
+C:\Users\Bobi\charp\projects\RectangleArea\Greeting\bin\Debug\netcoreapp2.0\Greeting.deps.json
+C:\Users\Bobi\charp\projects\RectangleArea\Greeting\bin\Debug\netcoreapp2.0\Greeting.runtimeconfig.json
+C:\Users\Bobi\charp\projects\RectangleArea\Greeting\bin\Debug\netcoreapp2.0\Greeting.runtimeconfig.dev.json
+C:\Users\Bobi\charp\projects\RectangleArea\Greeting\bin\Debug\netcoreapp2.0\Greeting.dll
+C:\Users\Bobi\charp\projects\RectangleArea\Greeting\bin\Debug\netcoreapp2.0\Greeting.pdb
+C:\Users\Bobi\charp\projects\RectangleArea\Greeting\obj\Debug\netcoreapp2.0\Greeting.csproj.CoreCompileInputs.cache
+C:\Users\Bobi\charp\projects\RectangleArea\Greeting\obj\Debug\netcoreapp2.0\Greeting.AssemblyInfoInputs.cache
+C:\Users\Bobi\charp\projects\RectangleArea\Greeting\obj\Debug\netcoreapp2.0\Greeting.AssemblyInfo.cs
+C:\Users\Bobi\charp\projects\RectangleArea\Greeting\obj\Debug\netcoreapp2.0\Greeting.dll
+C:\Users\Bobi\charp\projects\RectangleArea\Greeting\obj\Debug\netcoreapp2.0\Greeting.pdb

@@ -1,0 +1,11 @@
+C:\Users\Bobi\charp\projects\RectangleArea\2.Advertisement\bin\Debug\netcoreapp2.0\2.Advertisement.deps.json
+C:\Users\Bobi\charp\projects\RectangleArea\2.Advertisement\bin\Debug\netcoreapp2.0\2.Advertisement.runtimeconfig.json
+C:\Users\Bobi\charp\projects\RectangleArea\2.Advertisement\bin\Debug\netcoreapp2.0\2.Advertisement.runtimeconfig.dev.json
+C:\Users\Bobi\charp\projects\RectangleArea\2.Advertisement\bin\Debug\netcoreapp2.0\2.Advertisement.dll
+C:\Users\Bobi\charp\projects\RectangleArea\2.Advertisement\bin\Debug\netcoreapp2.0\2.Advertisement.pdb
+C:\Users\Bobi\charp\projects\RectangleArea\2.Advertisement\obj\Debug\netcoreapp2.0\2.Advertisement.csproj.CoreCompileInputs.cache
+C:\Users\Bobi\charp\projects\RectangleArea\2.Advertisement\obj\Debug\netcoreapp2.0\2.Advertisement.AssemblyInfoInputs.cache
+C:\Users\Bobi\charp\projects\RectangleArea\2.Advertisement\obj\Debug\netcoreapp2.0\2.Advertisement.AssemblyInfo.cs
+C:\Users\Bobi\charp\projects\RectangleArea\2.Advertisement\obj\Debug\netcoreapp2.0\2.Advertisement.dll
+C:\Users\Bobi\charp\projects\RectangleArea\2.Advertisement\obj\Debug\netcoreapp2.0\2.Advertisement.pdb
+C:\Users\Bobi\charp\projects\RectangleArea\2.Advertisement\obj\Debug\netcoreapp2.0\2.Advertisement.csprojResolveAssemblyReference.cache

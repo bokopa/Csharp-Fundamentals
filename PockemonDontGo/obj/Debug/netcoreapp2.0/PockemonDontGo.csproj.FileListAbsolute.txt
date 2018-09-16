@@ -1,0 +1,11 @@
+C:\Users\Bobi\charp\projects\RectangleArea\PockemonDontGo\bin\Debug\netcoreapp2.0\PockemonDontGo.deps.json
+C:\Users\Bobi\charp\projects\RectangleArea\PockemonDontGo\bin\Debug\netcoreapp2.0\PockemonDontGo.runtimeconfig.json
+C:\Users\Bobi\charp\projects\RectangleArea\PockemonDontGo\bin\Debug\netcoreapp2.0\PockemonDontGo.runtimeconfig.dev.json
+C:\Users\Bobi\charp\projects\RectangleArea\PockemonDontGo\bin\Debug\netcoreapp2.0\PockemonDontGo.dll
+C:\Users\Bobi\charp\projects\RectangleArea\PockemonDontGo\bin\Debug\netcoreapp2.0\PockemonDontGo.pdb
+C:\Users\Bobi\charp\projects\RectangleArea\PockemonDontGo\obj\Debug\netcoreapp2.0\PockemonDontGo.csprojResolveAssemblyReference.cache
+C:\Users\Bobi\charp\projects\RectangleArea\PockemonDontGo\obj\Debug\netcoreapp2.0\PockemonDontGo.csproj.CoreCompileInputs.cache
+C:\Users\Bobi\charp\projects\RectangleArea\PockemonDontGo\obj\Debug\netcoreapp2.0\PockemonDontGo.AssemblyInfoInputs.cache
+C:\Users\Bobi\charp\projects\RectangleArea\PockemonDontGo\obj\Debug\netcoreapp2.0\PockemonDontGo.AssemblyInfo.cs
+C:\Users\Bobi\charp\projects\RectangleArea\PockemonDontGo\obj\Debug\netcoreapp2.0\PockemonDontGo.dll
+C:\Users\Bobi\charp\projects\RectangleArea\PockemonDontGo\obj\Debug\netcoreapp2.0\PockemonDontGo.pdb

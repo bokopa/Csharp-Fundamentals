@@ -1,0 +1,10 @@
+C:\Users\Bobi\charp\projects\RectangleArea\FuckingBullshets\bin\Debug\netcoreapp2.0\FuckingBullshets.deps.json
+C:\Users\Bobi\charp\projects\RectangleArea\FuckingBullshets\bin\Debug\netcoreapp2.0\FuckingBullshets.runtimeconfig.json
+C:\Users\Bobi\charp\projects\RectangleArea\FuckingBullshets\bin\Debug\netcoreapp2.0\FuckingBullshets.runtimeconfig.dev.json
+C:\Users\Bobi\charp\projects\RectangleArea\FuckingBullshets\bin\Debug\netcoreapp2.0\FuckingBullshets.dll
+C:\Users\Bobi\charp\projects\RectangleArea\FuckingBullshets\bin\Debug\netcoreapp2.0\FuckingBullshets.pdb
+C:\Users\Bobi\charp\projects\RectangleArea\FuckingBullshets\obj\Debug\netcoreapp2.0\FuckingBullshets.csproj.CoreCompileInputs.cache
+C:\Users\Bobi\charp\projects\RectangleArea\FuckingBullshets\obj\Debug\netcoreapp2.0\FuckingBullshets.AssemblyInfoInputs.cache
+C:\Users\Bobi\charp\projects\RectangleArea\FuckingBullshets\obj\Debug\netcoreapp2.0\FuckingBullshets.AssemblyInfo.cs
+C:\Users\Bobi\charp\projects\RectangleArea\FuckingBullshets\obj\Debug\netcoreapp2.0\FuckingBullshets.dll
+C:\Users\Bobi\charp\projects\RectangleArea\FuckingBullshets\obj\Debug\netcoreapp2.0\FuckingBullshets.pdb

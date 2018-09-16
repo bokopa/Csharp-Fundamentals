@@ -1,0 +1,11 @@
+C:\Users\Bobi\charp\projects\RectangleArea\RyanAir\obj\Debug\netcoreapp2.0\RyanAir.csprojResolveAssemblyReference.cache
+C:\Users\Bobi\charp\projects\RectangleArea\RyanAir\obj\Debug\netcoreapp2.0\RyanAir.csproj.CoreCompileInputs.cache
+C:\Users\Bobi\charp\projects\RectangleArea\RyanAir\obj\Debug\netcoreapp2.0\RyanAir.AssemblyInfoInputs.cache
+C:\Users\Bobi\charp\projects\RectangleArea\RyanAir\obj\Debug\netcoreapp2.0\RyanAir.AssemblyInfo.cs
+C:\Users\Bobi\charp\projects\RectangleArea\RyanAir\bin\Debug\netcoreapp2.0\RyanAir.deps.json
+C:\Users\Bobi\charp\projects\RectangleArea\RyanAir\bin\Debug\netcoreapp2.0\RyanAir.runtimeconfig.json
+C:\Users\Bobi\charp\projects\RectangleArea\RyanAir\bin\Debug\netcoreapp2.0\RyanAir.runtimeconfig.dev.json
+C:\Users\Bobi\charp\projects\RectangleArea\RyanAir\bin\Debug\netcoreapp2.0\RyanAir.dll
+C:\Users\Bobi\charp\projects\RectangleArea\RyanAir\bin\Debug\netcoreapp2.0\RyanAir.pdb
+C:\Users\Bobi\charp\projects\RectangleArea\RyanAir\obj\Debug\netcoreapp2.0\RyanAir.dll
+C:\Users\Bobi\charp\projects\RectangleArea\RyanAir\obj\Debug\netcoreapp2.0\RyanAir.pdb

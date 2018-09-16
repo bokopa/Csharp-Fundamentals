@@ -1,0 +1,11 @@
+C:\Users\Bobi\charp\projects\RectangleArea\5.HandsofCards\bin\Debug\netcoreapp2.0\5.HandsofCards.deps.json
+C:\Users\Bobi\charp\projects\RectangleArea\5.HandsofCards\bin\Debug\netcoreapp2.0\5.HandsofCards.runtimeconfig.json
+C:\Users\Bobi\charp\projects\RectangleArea\5.HandsofCards\bin\Debug\netcoreapp2.0\5.HandsofCards.runtimeconfig.dev.json
+C:\Users\Bobi\charp\projects\RectangleArea\5.HandsofCards\bin\Debug\netcoreapp2.0\5.HandsofCards.dll
+C:\Users\Bobi\charp\projects\RectangleArea\5.HandsofCards\bin\Debug\netcoreapp2.0\5.HandsofCards.pdb
+C:\Users\Bobi\charp\projects\RectangleArea\5.HandsofCards\obj\Debug\netcoreapp2.0\5.HandsofCards.csprojResolveAssemblyReference.cache
+C:\Users\Bobi\charp\projects\RectangleArea\5.HandsofCards\obj\Debug\netcoreapp2.0\5.HandsofCards.csproj.CoreCompileInputs.cache
+C:\Users\Bobi\charp\projects\RectangleArea\5.HandsofCards\obj\Debug\netcoreapp2.0\5.HandsofCards.AssemblyInfoInputs.cache
+C:\Users\Bobi\charp\projects\RectangleArea\5.HandsofCards\obj\Debug\netcoreapp2.0\5.HandsofCards.AssemblyInfo.cs
+C:\Users\Bobi\charp\projects\RectangleArea\5.HandsofCards\obj\Debug\netcoreapp2.0\5.HandsofCards.dll
+C:\Users\Bobi\charp\projects\RectangleArea\5.HandsofCards\obj\Debug\netcoreapp2.0\5.HandsofCards.pdb

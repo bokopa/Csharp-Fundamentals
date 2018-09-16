@@ -1,0 +1,11 @@
+C:\Users\Bobi\charp\projects\RectangleArea\AnonimousArraySecond\bin\Debug\netcoreapp2.0\AnonimousArraySecond.deps.json
+C:\Users\Bobi\charp\projects\RectangleArea\AnonimousArraySecond\bin\Debug\netcoreapp2.0\AnonimousArraySecond.runtimeconfig.json
+C:\Users\Bobi\charp\projects\RectangleArea\AnonimousArraySecond\bin\Debug\netcoreapp2.0\AnonimousArraySecond.runtimeconfig.dev.json
+C:\Users\Bobi\charp\projects\RectangleArea\AnonimousArraySecond\bin\Debug\netcoreapp2.0\AnonimousArraySecond.dll
+C:\Users\Bobi\charp\projects\RectangleArea\AnonimousArraySecond\bin\Debug\netcoreapp2.0\AnonimousArraySecond.pdb
+C:\Users\Bobi\charp\projects\RectangleArea\AnonimousArraySecond\obj\Debug\netcoreapp2.0\AnonimousArraySecond.csprojResolveAssemblyReference.cache
+C:\Users\Bobi\charp\projects\RectangleArea\AnonimousArraySecond\obj\Debug\netcoreapp2.0\AnonimousArraySecond.csproj.CoreCompileInputs.cache
+C:\Users\Bobi\charp\projects\RectangleArea\AnonimousArraySecond\obj\Debug\netcoreapp2.0\AnonimousArraySecond.AssemblyInfoInputs.cache
+C:\Users\Bobi\charp\projects\RectangleArea\AnonimousArraySecond\obj\Debug\netcoreapp2.0\AnonimousArraySecond.AssemblyInfo.cs
+C:\Users\Bobi\charp\projects\RectangleArea\AnonimousArraySecond\obj\Debug\netcoreapp2.0\AnonimousArraySecond.dll
+C:\Users\Bobi\charp\projects\RectangleArea\AnonimousArraySecond\obj\Debug\netcoreapp2.0\AnonimousArraySecond.pdb

@@ -1,0 +1,11 @@
+C:\Users\Bobi\charp\projects\RectangleArea\RegexMon\bin\Debug\netcoreapp2.0\RegexMon.deps.json
+C:\Users\Bobi\charp\projects\RectangleArea\RegexMon\bin\Debug\netcoreapp2.0\RegexMon.runtimeconfig.json
+C:\Users\Bobi\charp\projects\RectangleArea\RegexMon\bin\Debug\netcoreapp2.0\RegexMon.runtimeconfig.dev.json
+C:\Users\Bobi\charp\projects\RectangleArea\RegexMon\bin\Debug\netcoreapp2.0\RegexMon.dll
+C:\Users\Bobi\charp\projects\RectangleArea\RegexMon\bin\Debug\netcoreapp2.0\RegexMon.pdb
+C:\Users\Bobi\charp\projects\RectangleArea\RegexMon\obj\Debug\netcoreapp2.0\RegexMon.csprojResolveAssemblyReference.cache
+C:\Users\Bobi\charp\projects\RectangleArea\RegexMon\obj\Debug\netcoreapp2.0\RegexMon.csproj.CoreCompileInputs.cache
+C:\Users\Bobi\charp\projects\RectangleArea\RegexMon\obj\Debug\netcoreapp2.0\RegexMon.AssemblyInfoInputs.cache
+C:\Users\Bobi\charp\projects\RectangleArea\RegexMon\obj\Debug\netcoreapp2.0\RegexMon.AssemblyInfo.cs
+C:\Users\Bobi\charp\projects\RectangleArea\RegexMon\obj\Debug\netcoreapp2.0\RegexMon.dll
+C:\Users\Bobi\charp\projects\RectangleArea\RegexMon\obj\Debug\netcoreapp2.0\RegexMon.pdb

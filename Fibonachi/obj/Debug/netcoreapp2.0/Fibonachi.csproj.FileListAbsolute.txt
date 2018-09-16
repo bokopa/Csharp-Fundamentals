@@ -1,0 +1,10 @@
+C:\Users\Bobi\charp\projects\RectangleArea\Fibonachi\bin\Debug\netcoreapp2.0\Fibonachi.deps.json
+C:\Users\Bobi\charp\projects\RectangleArea\Fibonachi\bin\Debug\netcoreapp2.0\Fibonachi.runtimeconfig.json
+C:\Users\Bobi\charp\projects\RectangleArea\Fibonachi\bin\Debug\netcoreapp2.0\Fibonachi.runtimeconfig.dev.json
+C:\Users\Bobi\charp\projects\RectangleArea\Fibonachi\bin\Debug\netcoreapp2.0\Fibonachi.dll
+C:\Users\Bobi\charp\projects\RectangleArea\Fibonachi\bin\Debug\netcoreapp2.0\Fibonachi.pdb
+C:\Users\Bobi\charp\projects\RectangleArea\Fibonachi\obj\Debug\netcoreapp2.0\Fibonachi.csproj.CoreCompileInputs.cache
+C:\Users\Bobi\charp\projects\RectangleArea\Fibonachi\obj\Debug\netcoreapp2.0\Fibonachi.AssemblyInfoInputs.cache
+C:\Users\Bobi\charp\projects\RectangleArea\Fibonachi\obj\Debug\netcoreapp2.0\Fibonachi.AssemblyInfo.cs
+C:\Users\Bobi\charp\projects\RectangleArea\Fibonachi\obj\Debug\netcoreapp2.0\Fibonachi.dll
+C:\Users\Bobi\charp\projects\RectangleArea\Fibonachi\obj\Debug\netcoreapp2.0\Fibonachi.pdb

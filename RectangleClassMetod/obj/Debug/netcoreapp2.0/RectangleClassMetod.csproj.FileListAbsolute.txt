@@ -1,0 +1,10 @@
+C:\Users\Bobi\charp\projects\RectangleArea\RectangleClassMetod\bin\Debug\netcoreapp2.0\RectangleClassMetod.deps.json
+C:\Users\Bobi\charp\projects\RectangleArea\RectangleClassMetod\bin\Debug\netcoreapp2.0\RectangleClassMetod.runtimeconfig.json
+C:\Users\Bobi\charp\projects\RectangleArea\RectangleClassMetod\bin\Debug\netcoreapp2.0\RectangleClassMetod.runtimeconfig.dev.json
+C:\Users\Bobi\charp\projects\RectangleArea\RectangleClassMetod\bin\Debug\netcoreapp2.0\RectangleClassMetod.dll
+C:\Users\Bobi\charp\projects\RectangleArea\RectangleClassMetod\bin\Debug\netcoreapp2.0\RectangleClassMetod.pdb
+C:\Users\Bobi\charp\projects\RectangleArea\RectangleClassMetod\obj\Debug\netcoreapp2.0\RectangleClassMetod.csproj.CoreCompileInputs.cache
+C:\Users\Bobi\charp\projects\RectangleArea\RectangleClassMetod\obj\Debug\netcoreapp2.0\RectangleClassMetod.AssemblyInfoInputs.cache
+C:\Users\Bobi\charp\projects\RectangleArea\RectangleClassMetod\obj\Debug\netcoreapp2.0\RectangleClassMetod.AssemblyInfo.cs
+C:\Users\Bobi\charp\projects\RectangleArea\RectangleClassMetod\obj\Debug\netcoreapp2.0\RectangleClassMetod.dll
+C:\Users\Bobi\charp\projects\RectangleArea\RectangleClassMetod\obj\Debug\netcoreapp2.0\RectangleClassMetod.pdb

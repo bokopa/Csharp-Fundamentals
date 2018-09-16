@@ -1,0 +1,10 @@
+C:\Users\Bobi\charp\projects\RectangleArea\ChoosADrink2\obj\Debug\netcoreapp2.0\ChoosADrink2.csproj.CoreCompileInputs.cache
+C:\Users\Bobi\charp\projects\RectangleArea\ChoosADrink2\obj\Debug\netcoreapp2.0\ChoosADrink2.AssemblyInfoInputs.cache
+C:\Users\Bobi\charp\projects\RectangleArea\ChoosADrink2\obj\Debug\netcoreapp2.0\ChoosADrink2.AssemblyInfo.cs
+C:\Users\Bobi\charp\projects\RectangleArea\ChoosADrink2\bin\Debug\netcoreapp2.0\ChoosADrink2.deps.json
+C:\Users\Bobi\charp\projects\RectangleArea\ChoosADrink2\bin\Debug\netcoreapp2.0\ChoosADrink2.runtimeconfig.json
+C:\Users\Bobi\charp\projects\RectangleArea\ChoosADrink2\bin\Debug\netcoreapp2.0\ChoosADrink2.runtimeconfig.dev.json
+C:\Users\Bobi\charp\projects\RectangleArea\ChoosADrink2\bin\Debug\netcoreapp2.0\ChoosADrink2.dll
+C:\Users\Bobi\charp\projects\RectangleArea\ChoosADrink2\bin\Debug\netcoreapp2.0\ChoosADrink2.pdb
+C:\Users\Bobi\charp\projects\RectangleArea\ChoosADrink2\obj\Debug\netcoreapp2.0\ChoosADrink2.dll
+C:\Users\Bobi\charp\projects\RectangleArea\ChoosADrink2\obj\Debug\netcoreapp2.0\ChoosADrink2.pdb

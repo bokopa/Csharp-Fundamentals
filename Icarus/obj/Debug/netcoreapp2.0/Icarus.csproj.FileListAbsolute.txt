@@ -1,0 +1,11 @@
+C:\Users\Bobi\charp\projects\RectangleArea\Icarus\obj\Debug\netcoreapp2.0\Icarus.csprojResolveAssemblyReference.cache
+C:\Users\Bobi\charp\projects\RectangleArea\Icarus\obj\Debug\netcoreapp2.0\Icarus.csproj.CoreCompileInputs.cache
+C:\Users\Bobi\charp\projects\RectangleArea\Icarus\obj\Debug\netcoreapp2.0\Icarus.AssemblyInfoInputs.cache
+C:\Users\Bobi\charp\projects\RectangleArea\Icarus\obj\Debug\netcoreapp2.0\Icarus.AssemblyInfo.cs
+C:\Users\Bobi\charp\projects\RectangleArea\Icarus\bin\Debug\netcoreapp2.0\Icarus.deps.json
+C:\Users\Bobi\charp\projects\RectangleArea\Icarus\bin\Debug\netcoreapp2.0\Icarus.runtimeconfig.json
+C:\Users\Bobi\charp\projects\RectangleArea\Icarus\bin\Debug\netcoreapp2.0\Icarus.runtimeconfig.dev.json
+C:\Users\Bobi\charp\projects\RectangleArea\Icarus\bin\Debug\netcoreapp2.0\Icarus.dll
+C:\Users\Bobi\charp\projects\RectangleArea\Icarus\bin\Debug\netcoreapp2.0\Icarus.pdb
+C:\Users\Bobi\charp\projects\RectangleArea\Icarus\obj\Debug\netcoreapp2.0\Icarus.dll
+C:\Users\Bobi\charp\projects\RectangleArea\Icarus\obj\Debug\netcoreapp2.0\Icarus.pdb

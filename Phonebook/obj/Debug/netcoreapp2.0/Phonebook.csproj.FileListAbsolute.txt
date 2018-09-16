@@ -1,0 +1,10 @@
+C:\Users\Bobi\charp\projects\RectangleArea\Phonebook\bin\Debug\netcoreapp2.0\Phonebook.deps.json
+C:\Users\Bobi\charp\projects\RectangleArea\Phonebook\bin\Debug\netcoreapp2.0\Phonebook.runtimeconfig.json
+C:\Users\Bobi\charp\projects\RectangleArea\Phonebook\bin\Debug\netcoreapp2.0\Phonebook.runtimeconfig.dev.json
+C:\Users\Bobi\charp\projects\RectangleArea\Phonebook\bin\Debug\netcoreapp2.0\Phonebook.dll
+C:\Users\Bobi\charp\projects\RectangleArea\Phonebook\bin\Debug\netcoreapp2.0\Phonebook.pdb
+C:\Users\Bobi\charp\projects\RectangleArea\Phonebook\obj\Debug\netcoreapp2.0\Phonebook.csproj.CoreCompileInputs.cache
+C:\Users\Bobi\charp\projects\RectangleArea\Phonebook\obj\Debug\netcoreapp2.0\Phonebook.AssemblyInfoInputs.cache
+C:\Users\Bobi\charp\projects\RectangleArea\Phonebook\obj\Debug\netcoreapp2.0\Phonebook.AssemblyInfo.cs
+C:\Users\Bobi\charp\projects\RectangleArea\Phonebook\obj\Debug\netcoreapp2.0\Phonebook.dll
+C:\Users\Bobi\charp\projects\RectangleArea\Phonebook\obj\Debug\netcoreapp2.0\Phonebook.pdb

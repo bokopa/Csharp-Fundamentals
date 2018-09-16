@@ -1,0 +1,10 @@
+C:\Users\Bobi\charp\projects\RectangleArea\ConsoleApp8\bin\Debug\netcoreapp2.0\3.SearchforaNumber.deps.json
+C:\Users\Bobi\charp\projects\RectangleArea\ConsoleApp8\bin\Debug\netcoreapp2.0\3.SearchforaNumber.runtimeconfig.json
+C:\Users\Bobi\charp\projects\RectangleArea\ConsoleApp8\bin\Debug\netcoreapp2.0\3.SearchforaNumber.runtimeconfig.dev.json
+C:\Users\Bobi\charp\projects\RectangleArea\ConsoleApp8\bin\Debug\netcoreapp2.0\3.SearchforaNumber.dll
+C:\Users\Bobi\charp\projects\RectangleArea\ConsoleApp8\bin\Debug\netcoreapp2.0\3.SearchforaNumber.pdb
+C:\Users\Bobi\charp\projects\RectangleArea\ConsoleApp8\obj\Debug\netcoreapp2.0\3.SearchforaNumber.csproj.CoreCompileInputs.cache
+C:\Users\Bobi\charp\projects\RectangleArea\ConsoleApp8\obj\Debug\netcoreapp2.0\3.SearchforaNumber.AssemblyInfoInputs.cache
+C:\Users\Bobi\charp\projects\RectangleArea\ConsoleApp8\obj\Debug\netcoreapp2.0\3.SearchforaNumber.AssemblyInfo.cs
+C:\Users\Bobi\charp\projects\RectangleArea\ConsoleApp8\obj\Debug\netcoreapp2.0\3.SearchforaNumber.dll
+C:\Users\Bobi\charp\projects\RectangleArea\ConsoleApp8\obj\Debug\netcoreapp2.0\3.SearchforaNumber.pdb

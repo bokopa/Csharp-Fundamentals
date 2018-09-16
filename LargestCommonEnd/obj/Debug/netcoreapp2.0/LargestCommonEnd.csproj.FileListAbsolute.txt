@@ -1,0 +1,10 @@
+C:\Users\Bobi\charp\projects\RectangleArea\LargestCommonEnd\bin\Debug\netcoreapp2.0\LargestCommonEnd.deps.json
+C:\Users\Bobi\charp\projects\RectangleArea\LargestCommonEnd\bin\Debug\netcoreapp2.0\LargestCommonEnd.runtimeconfig.json
+C:\Users\Bobi\charp\projects\RectangleArea\LargestCommonEnd\bin\Debug\netcoreapp2.0\LargestCommonEnd.runtimeconfig.dev.json
+C:\Users\Bobi\charp\projects\RectangleArea\LargestCommonEnd\bin\Debug\netcoreapp2.0\LargestCommonEnd.dll
+C:\Users\Bobi\charp\projects\RectangleArea\LargestCommonEnd\bin\Debug\netcoreapp2.0\LargestCommonEnd.pdb
+C:\Users\Bobi\charp\projects\RectangleArea\LargestCommonEnd\obj\Debug\netcoreapp2.0\LargestCommonEnd.csproj.CoreCompileInputs.cache
+C:\Users\Bobi\charp\projects\RectangleArea\LargestCommonEnd\obj\Debug\netcoreapp2.0\LargestCommonEnd.AssemblyInfoInputs.cache
+C:\Users\Bobi\charp\projects\RectangleArea\LargestCommonEnd\obj\Debug\netcoreapp2.0\LargestCommonEnd.AssemblyInfo.cs
+C:\Users\Bobi\charp\projects\RectangleArea\LargestCommonEnd\obj\Debug\netcoreapp2.0\LargestCommonEnd.dll
+C:\Users\Bobi\charp\projects\RectangleArea\LargestCommonEnd\obj\Debug\netcoreapp2.0\LargestCommonEnd.pdb

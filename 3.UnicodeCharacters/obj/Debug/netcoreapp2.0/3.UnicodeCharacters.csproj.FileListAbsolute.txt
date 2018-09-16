@@ -1,0 +1,11 @@
+C:\Users\Bobi\charp\projects\RectangleArea\3.UnicodeCharacters\bin\Debug\netcoreapp2.0\3.UnicodeCharacters.deps.json
+C:\Users\Bobi\charp\projects\RectangleArea\3.UnicodeCharacters\bin\Debug\netcoreapp2.0\3.UnicodeCharacters.runtimeconfig.json
+C:\Users\Bobi\charp\projects\RectangleArea\3.UnicodeCharacters\bin\Debug\netcoreapp2.0\3.UnicodeCharacters.runtimeconfig.dev.json
+C:\Users\Bobi\charp\projects\RectangleArea\3.UnicodeCharacters\bin\Debug\netcoreapp2.0\3.UnicodeCharacters.dll
+C:\Users\Bobi\charp\projects\RectangleArea\3.UnicodeCharacters\bin\Debug\netcoreapp2.0\3.UnicodeCharacters.pdb
+C:\Users\Bobi\charp\projects\RectangleArea\3.UnicodeCharacters\obj\Debug\netcoreapp2.0\3.UnicodeCharacters.csprojResolveAssemblyReference.cache
+C:\Users\Bobi\charp\projects\RectangleArea\3.UnicodeCharacters\obj\Debug\netcoreapp2.0\3.UnicodeCharacters.csproj.CoreCompileInputs.cache
+C:\Users\Bobi\charp\projects\RectangleArea\3.UnicodeCharacters\obj\Debug\netcoreapp2.0\3.UnicodeCharacters.AssemblyInfoInputs.cache
+C:\Users\Bobi\charp\projects\RectangleArea\3.UnicodeCharacters\obj\Debug\netcoreapp2.0\3.UnicodeCharacters.AssemblyInfo.cs
+C:\Users\Bobi\charp\projects\RectangleArea\3.UnicodeCharacters\obj\Debug\netcoreapp2.0\3.UnicodeCharacters.dll
+C:\Users\Bobi\charp\projects\RectangleArea\3.UnicodeCharacters\obj\Debug\netcoreapp2.0\3.UnicodeCharacters.pdb

@@ -1,0 +1,10 @@
+C:\Users\Bobi\charp\projects\RectangleArea\6.SumReversedNumbers\bin\Debug\netcoreapp2.0\6.SumReversedNumbers.deps.json
+C:\Users\Bobi\charp\projects\RectangleArea\6.SumReversedNumbers\bin\Debug\netcoreapp2.0\6.SumReversedNumbers.runtimeconfig.json
+C:\Users\Bobi\charp\projects\RectangleArea\6.SumReversedNumbers\bin\Debug\netcoreapp2.0\6.SumReversedNumbers.runtimeconfig.dev.json
+C:\Users\Bobi\charp\projects\RectangleArea\6.SumReversedNumbers\bin\Debug\netcoreapp2.0\6.SumReversedNumbers.dll
+C:\Users\Bobi\charp\projects\RectangleArea\6.SumReversedNumbers\bin\Debug\netcoreapp2.0\6.SumReversedNumbers.pdb
+C:\Users\Bobi\charp\projects\RectangleArea\6.SumReversedNumbers\obj\Debug\netcoreapp2.0\6.SumReversedNumbers.csproj.CoreCompileInputs.cache
+C:\Users\Bobi\charp\projects\RectangleArea\6.SumReversedNumbers\obj\Debug\netcoreapp2.0\6.SumReversedNumbers.AssemblyInfoInputs.cache
+C:\Users\Bobi\charp\projects\RectangleArea\6.SumReversedNumbers\obj\Debug\netcoreapp2.0\6.SumReversedNumbers.AssemblyInfo.cs
+C:\Users\Bobi\charp\projects\RectangleArea\6.SumReversedNumbers\obj\Debug\netcoreapp2.0\6.SumReversedNumbers.dll
+C:\Users\Bobi\charp\projects\RectangleArea\6.SumReversedNumbers\obj\Debug\netcoreapp2.0\6.SumReversedNumbers.pdb

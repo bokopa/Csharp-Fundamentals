@@ -1,0 +1,10 @@
+C:\Users\Bobi\charp\projects\RectangleArea\RotateАndSum\obj\Debug\netcoreapp2.0\RotateАndSum.csproj.CoreCompileInputs.cache
+C:\Users\Bobi\charp\projects\RectangleArea\RotateАndSum\obj\Debug\netcoreapp2.0\RotateАndSum.AssemblyInfoInputs.cache
+C:\Users\Bobi\charp\projects\RectangleArea\RotateАndSum\obj\Debug\netcoreapp2.0\RotateАndSum.AssemblyInfo.cs
+C:\Users\Bobi\charp\projects\RectangleArea\RotateАndSum\bin\Debug\netcoreapp2.0\RotateАndSum.deps.json
+C:\Users\Bobi\charp\projects\RectangleArea\RotateАndSum\bin\Debug\netcoreapp2.0\RotateАndSum.runtimeconfig.json
+C:\Users\Bobi\charp\projects\RectangleArea\RotateАndSum\bin\Debug\netcoreapp2.0\RotateАndSum.runtimeconfig.dev.json
+C:\Users\Bobi\charp\projects\RectangleArea\RotateАndSum\bin\Debug\netcoreapp2.0\RotateАndSum.dll
+C:\Users\Bobi\charp\projects\RectangleArea\RotateАndSum\bin\Debug\netcoreapp2.0\RotateАndSum.pdb
+C:\Users\Bobi\charp\projects\RectangleArea\RotateАndSum\obj\Debug\netcoreapp2.0\RotateАndSum.dll
+C:\Users\Bobi\charp\projects\RectangleArea\RotateАndSum\obj\Debug\netcoreapp2.0\RotateАndSum.pdb

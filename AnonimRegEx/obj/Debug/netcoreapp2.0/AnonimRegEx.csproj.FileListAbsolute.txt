@@ -1,0 +1,11 @@
+C:\Users\Bobi\charp\projects\RectangleArea\AnonimRegEx\obj\Debug\netcoreapp2.0\AnonimRegEx.csprojResolveAssemblyReference.cache
+C:\Users\Bobi\charp\projects\RectangleArea\AnonimRegEx\obj\Debug\netcoreapp2.0\AnonimRegEx.csproj.CoreCompileInputs.cache
+C:\Users\Bobi\charp\projects\RectangleArea\AnonimRegEx\obj\Debug\netcoreapp2.0\AnonimRegEx.AssemblyInfoInputs.cache
+C:\Users\Bobi\charp\projects\RectangleArea\AnonimRegEx\obj\Debug\netcoreapp2.0\AnonimRegEx.AssemblyInfo.cs
+C:\Users\Bobi\charp\projects\RectangleArea\AnonimRegEx\bin\Debug\netcoreapp2.0\AnonimRegEx.deps.json
+C:\Users\Bobi\charp\projects\RectangleArea\AnonimRegEx\bin\Debug\netcoreapp2.0\AnonimRegEx.runtimeconfig.json
+C:\Users\Bobi\charp\projects\RectangleArea\AnonimRegEx\bin\Debug\netcoreapp2.0\AnonimRegEx.runtimeconfig.dev.json
+C:\Users\Bobi\charp\projects\RectangleArea\AnonimRegEx\bin\Debug\netcoreapp2.0\AnonimRegEx.dll
+C:\Users\Bobi\charp\projects\RectangleArea\AnonimRegEx\bin\Debug\netcoreapp2.0\AnonimRegEx.pdb
+C:\Users\Bobi\charp\projects\RectangleArea\AnonimRegEx\obj\Debug\netcoreapp2.0\AnonimRegEx.dll
+C:\Users\Bobi\charp\projects\RectangleArea\AnonimRegEx\obj\Debug\netcoreapp2.0\AnonimRegEx.pdb

@@ -1,0 +1,11 @@
+C:\Users\Bobi\charp\projects\RectangleArea\DemonsBattleThird\bin\Debug\netcoreapp2.0\DemonsBattleThird.deps.json
+C:\Users\Bobi\charp\projects\RectangleArea\DemonsBattleThird\bin\Debug\netcoreapp2.0\DemonsBattleThird.runtimeconfig.json
+C:\Users\Bobi\charp\projects\RectangleArea\DemonsBattleThird\bin\Debug\netcoreapp2.0\DemonsBattleThird.runtimeconfig.dev.json
+C:\Users\Bobi\charp\projects\RectangleArea\DemonsBattleThird\bin\Debug\netcoreapp2.0\DemonsBattleThird.dll
+C:\Users\Bobi\charp\projects\RectangleArea\DemonsBattleThird\bin\Debug\netcoreapp2.0\DemonsBattleThird.pdb
+C:\Users\Bobi\charp\projects\RectangleArea\DemonsBattleThird\obj\Debug\netcoreapp2.0\DemonsBattleThird.csprojResolveAssemblyReference.cache
+C:\Users\Bobi\charp\projects\RectangleArea\DemonsBattleThird\obj\Debug\netcoreapp2.0\DemonsBattleThird.csproj.CoreCompileInputs.cache
+C:\Users\Bobi\charp\projects\RectangleArea\DemonsBattleThird\obj\Debug\netcoreapp2.0\DemonsBattleThird.AssemblyInfoInputs.cache
+C:\Users\Bobi\charp\projects\RectangleArea\DemonsBattleThird\obj\Debug\netcoreapp2.0\DemonsBattleThird.AssemblyInfo.cs
+C:\Users\Bobi\charp\projects\RectangleArea\DemonsBattleThird\obj\Debug\netcoreapp2.0\DemonsBattleThird.dll
+C:\Users\Bobi\charp\projects\RectangleArea\DemonsBattleThird\obj\Debug\netcoreapp2.0\DemonsBattleThird.pdb

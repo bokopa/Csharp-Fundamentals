@@ -1,0 +1,11 @@
+C:\Users\Bobi\charp\projects\RectangleArea\MentorGroup\obj\Debug\netcoreapp2.0\MentorGroup.csprojResolveAssemblyReference.cache
+C:\Users\Bobi\charp\projects\RectangleArea\MentorGroup\obj\Debug\netcoreapp2.0\MentorGroup.csproj.CoreCompileInputs.cache
+C:\Users\Bobi\charp\projects\RectangleArea\MentorGroup\obj\Debug\netcoreapp2.0\MentorGroup.AssemblyInfoInputs.cache
+C:\Users\Bobi\charp\projects\RectangleArea\MentorGroup\obj\Debug\netcoreapp2.0\MentorGroup.AssemblyInfo.cs
+C:\Users\Bobi\charp\projects\RectangleArea\MentorGroup\bin\Debug\netcoreapp2.0\MentorGroup.deps.json
+C:\Users\Bobi\charp\projects\RectangleArea\MentorGroup\bin\Debug\netcoreapp2.0\MentorGroup.runtimeconfig.json
+C:\Users\Bobi\charp\projects\RectangleArea\MentorGroup\bin\Debug\netcoreapp2.0\MentorGroup.runtimeconfig.dev.json
+C:\Users\Bobi\charp\projects\RectangleArea\MentorGroup\bin\Debug\netcoreapp2.0\MentorGroup.dll
+C:\Users\Bobi\charp\projects\RectangleArea\MentorGroup\bin\Debug\netcoreapp2.0\MentorGroup.pdb
+C:\Users\Bobi\charp\projects\RectangleArea\MentorGroup\obj\Debug\netcoreapp2.0\MentorGroup.dll
+C:\Users\Bobi\charp\projects\RectangleArea\MentorGroup\obj\Debug\netcoreapp2.0\MentorGroup.pdb

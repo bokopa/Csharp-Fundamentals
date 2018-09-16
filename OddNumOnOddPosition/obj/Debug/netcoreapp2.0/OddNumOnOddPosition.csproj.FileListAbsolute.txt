@@ -1,0 +1,11 @@
+C:\Users\Bobi\charp\projects\RectangleArea\OddNumOnOddPosition\obj\Debug\netcoreapp2.0\OddNumOnOddPosition.csproj.CoreCompileInputs.cache
+C:\Users\Bobi\charp\projects\RectangleArea\OddNumOnOddPosition\obj\Debug\netcoreapp2.0\OddNumOnOddPosition.AssemblyInfoInputs.cache
+C:\Users\Bobi\charp\projects\RectangleArea\OddNumOnOddPosition\obj\Debug\netcoreapp2.0\OddNumOnOddPosition.AssemblyInfo.cs
+C:\Users\Bobi\charp\projects\RectangleArea\OddNumOnOddPosition\obj\Debug\netcoreapp2.0\OddNumOnOddPosition.csprojResolveAssemblyReference.cache
+C:\Users\Bobi\charp\projects\RectangleArea\OddNumOnOddPosition\bin\Debug\netcoreapp2.0\OddNumOnOddPosition.deps.json
+C:\Users\Bobi\charp\projects\RectangleArea\OddNumOnOddPosition\bin\Debug\netcoreapp2.0\OddNumOnOddPosition.runtimeconfig.json
+C:\Users\Bobi\charp\projects\RectangleArea\OddNumOnOddPosition\bin\Debug\netcoreapp2.0\OddNumOnOddPosition.runtimeconfig.dev.json
+C:\Users\Bobi\charp\projects\RectangleArea\OddNumOnOddPosition\bin\Debug\netcoreapp2.0\OddNumOnOddPosition.dll
+C:\Users\Bobi\charp\projects\RectangleArea\OddNumOnOddPosition\bin\Debug\netcoreapp2.0\OddNumOnOddPosition.pdb
+C:\Users\Bobi\charp\projects\RectangleArea\OddNumOnOddPosition\obj\Debug\netcoreapp2.0\OddNumOnOddPosition.dll
+C:\Users\Bobi\charp\projects\RectangleArea\OddNumOnOddPosition\obj\Debug\netcoreapp2.0\OddNumOnOddPosition.pdb

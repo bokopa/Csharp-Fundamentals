@@ -1,0 +1,10 @@
+C:\Users\Bobi\charp\projects\RectangleArea\1.CountWorkingDays\bin\Debug\netcoreapp2.0\1.CountWorkingDays.deps.json
+C:\Users\Bobi\charp\projects\RectangleArea\1.CountWorkingDays\bin\Debug\netcoreapp2.0\1.CountWorkingDays.runtimeconfig.json
+C:\Users\Bobi\charp\projects\RectangleArea\1.CountWorkingDays\bin\Debug\netcoreapp2.0\1.CountWorkingDays.runtimeconfig.dev.json
+C:\Users\Bobi\charp\projects\RectangleArea\1.CountWorkingDays\bin\Debug\netcoreapp2.0\1.CountWorkingDays.dll
+C:\Users\Bobi\charp\projects\RectangleArea\1.CountWorkingDays\bin\Debug\netcoreapp2.0\1.CountWorkingDays.pdb
+C:\Users\Bobi\charp\projects\RectangleArea\1.CountWorkingDays\obj\Debug\netcoreapp2.0\1.CountWorkingDays.csproj.CoreCompileInputs.cache
+C:\Users\Bobi\charp\projects\RectangleArea\1.CountWorkingDays\obj\Debug\netcoreapp2.0\1.CountWorkingDays.AssemblyInfoInputs.cache
+C:\Users\Bobi\charp\projects\RectangleArea\1.CountWorkingDays\obj\Debug\netcoreapp2.0\1.CountWorkingDays.AssemblyInfo.cs
+C:\Users\Bobi\charp\projects\RectangleArea\1.CountWorkingDays\obj\Debug\netcoreapp2.0\1.CountWorkingDays.dll
+C:\Users\Bobi\charp\projects\RectangleArea\1.CountWorkingDays\obj\Debug\netcoreapp2.0\1.CountWorkingDays.pdb

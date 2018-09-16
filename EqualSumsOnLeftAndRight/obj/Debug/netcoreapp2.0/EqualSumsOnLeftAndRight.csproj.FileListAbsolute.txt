@@ -1,0 +1,10 @@
+C:\Users\Bobi\charp\projects\RectangleArea\EqualSumsOnLeftAndRight\bin\Debug\netcoreapp2.0\EqualSumsOnLeftAndRight.deps.json
+C:\Users\Bobi\charp\projects\RectangleArea\EqualSumsOnLeftAndRight\bin\Debug\netcoreapp2.0\EqualSumsOnLeftAndRight.runtimeconfig.json
+C:\Users\Bobi\charp\projects\RectangleArea\EqualSumsOnLeftAndRight\bin\Debug\netcoreapp2.0\EqualSumsOnLeftAndRight.runtimeconfig.dev.json
+C:\Users\Bobi\charp\projects\RectangleArea\EqualSumsOnLeftAndRight\bin\Debug\netcoreapp2.0\EqualSumsOnLeftAndRight.dll
+C:\Users\Bobi\charp\projects\RectangleArea\EqualSumsOnLeftAndRight\bin\Debug\netcoreapp2.0\EqualSumsOnLeftAndRight.pdb
+C:\Users\Bobi\charp\projects\RectangleArea\EqualSumsOnLeftAndRight\obj\Debug\netcoreapp2.0\EqualSumsOnLeftAndRight.csproj.CoreCompileInputs.cache
+C:\Users\Bobi\charp\projects\RectangleArea\EqualSumsOnLeftAndRight\obj\Debug\netcoreapp2.0\EqualSumsOnLeftAndRight.AssemblyInfoInputs.cache
+C:\Users\Bobi\charp\projects\RectangleArea\EqualSumsOnLeftAndRight\obj\Debug\netcoreapp2.0\EqualSumsOnLeftAndRight.AssemblyInfo.cs
+C:\Users\Bobi\charp\projects\RectangleArea\EqualSumsOnLeftAndRight\obj\Debug\netcoreapp2.0\EqualSumsOnLeftAndRight.dll
+C:\Users\Bobi\charp\projects\RectangleArea\EqualSumsOnLeftAndRight\obj\Debug\netcoreapp2.0\EqualSumsOnLeftAndRight.pdb

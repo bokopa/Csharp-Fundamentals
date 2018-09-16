@@ -1,0 +1,10 @@
+C:\Users\Bobi\charp\projects\RectangleArea\Regex\bin\Debug\netcoreapp2.0\ValidEmails.deps.json
+C:\Users\Bobi\charp\projects\RectangleArea\Regex\bin\Debug\netcoreapp2.0\ValidEmails.runtimeconfig.json
+C:\Users\Bobi\charp\projects\RectangleArea\Regex\bin\Debug\netcoreapp2.0\ValidEmails.runtimeconfig.dev.json
+C:\Users\Bobi\charp\projects\RectangleArea\Regex\bin\Debug\netcoreapp2.0\ValidEmails.dll
+C:\Users\Bobi\charp\projects\RectangleArea\Regex\bin\Debug\netcoreapp2.0\ValidEmails.pdb
+C:\Users\Bobi\charp\projects\RectangleArea\Regex\obj\Debug\netcoreapp2.0\ValidEmails.csproj.CoreCompileInputs.cache
+C:\Users\Bobi\charp\projects\RectangleArea\Regex\obj\Debug\netcoreapp2.0\ValidEmails.AssemblyInfoInputs.cache
+C:\Users\Bobi\charp\projects\RectangleArea\Regex\obj\Debug\netcoreapp2.0\ValidEmails.AssemblyInfo.cs
+C:\Users\Bobi\charp\projects\RectangleArea\Regex\obj\Debug\netcoreapp2.0\ValidEmails.dll
+C:\Users\Bobi\charp\projects\RectangleArea\Regex\obj\Debug\netcoreapp2.0\ValidEmails.pdb

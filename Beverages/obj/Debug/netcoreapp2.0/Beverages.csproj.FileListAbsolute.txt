@@ -1,0 +1,11 @@
+C:\Users\Bobi\charp\projects\RectangleArea\Beverages\bin\Debug\netcoreapp2.0\Beverages.deps.json
+C:\Users\Bobi\charp\projects\RectangleArea\Beverages\bin\Debug\netcoreapp2.0\Beverages.runtimeconfig.json
+C:\Users\Bobi\charp\projects\RectangleArea\Beverages\bin\Debug\netcoreapp2.0\Beverages.runtimeconfig.dev.json
+C:\Users\Bobi\charp\projects\RectangleArea\Beverages\bin\Debug\netcoreapp2.0\Beverages.dll
+C:\Users\Bobi\charp\projects\RectangleArea\Beverages\bin\Debug\netcoreapp2.0\Beverages.pdb
+C:\Users\Bobi\charp\projects\RectangleArea\Beverages\obj\Debug\netcoreapp2.0\Beverages.csproj.CoreCompileInputs.cache
+C:\Users\Bobi\charp\projects\RectangleArea\Beverages\obj\Debug\netcoreapp2.0\Beverages.AssemblyInfoInputs.cache
+C:\Users\Bobi\charp\projects\RectangleArea\Beverages\obj\Debug\netcoreapp2.0\Beverages.AssemblyInfo.cs
+C:\Users\Bobi\charp\projects\RectangleArea\Beverages\obj\Debug\netcoreapp2.0\Beverages.dll
+C:\Users\Bobi\charp\projects\RectangleArea\Beverages\obj\Debug\netcoreapp2.0\Beverages.pdb
+C:\Users\Bobi\charp\projects\RectangleArea\Beverages\obj\Debug\netcoreapp2.0\Beverages.csprojResolveAssemblyReference.cache
